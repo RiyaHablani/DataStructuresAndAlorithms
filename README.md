@@ -11,6 +11,7 @@ Youtube leetcode videos code present here
 # String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -25,6 +26,7 @@ Youtube leetcode videos code present here
 # Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 # Sorting
 |  |
@@ -34,3 +36,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
+# Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
