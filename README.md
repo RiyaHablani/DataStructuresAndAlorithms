@@ -102,6 +102,7 @@ Youtube leetcode videos code present here
 | [1534-minimum-number-of-frogs-croaking](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2391-strong-password-checker-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2391-strong-password-checker-ii) |
 # Bit Manipulation
 |  |
 | ------- |
