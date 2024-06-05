@@ -19,6 +19,7 @@ Youtube leetcode videos code present here
 | [0468-validate-ip-address](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0468-validate-ip-address) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
@@ -84,3 +85,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
