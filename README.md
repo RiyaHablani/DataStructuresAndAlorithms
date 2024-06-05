@@ -60,6 +60,7 @@ Youtube leetcode videos code present here
 | [0389-find-the-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Youtube leetcode videos code present here
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
 # Bit Manipulation
 |  |
 | ------- |
