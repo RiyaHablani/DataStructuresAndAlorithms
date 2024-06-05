@@ -89,6 +89,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1534-minimum-number-of-frogs-croaking) |
 # String Matching
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Youtube leetcode videos code present here
 | [0415-add-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1534-minimum-number-of-frogs-croaking) |
 # Bit Manipulation
 |  |
 | ------- |
