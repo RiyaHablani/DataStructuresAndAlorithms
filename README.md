@@ -18,6 +18,7 @@ Youtube leetcode videos code present here
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -30,6 +31,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2341-count-prefixes-of-a-given-string) |
 # Hash Table
 |  |
