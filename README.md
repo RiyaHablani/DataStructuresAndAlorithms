@@ -54,6 +54,7 @@ Youtube leetcode videos code present here
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Youtube leetcode videos code present here
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Bit Manipulation
 |  |
 | ------- |
