@@ -15,6 +15,7 @@ Youtube leetcode videos code present here
 | [0205-isomorphic-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0468-validate-ip-address) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
@@ -43,12 +44,14 @@ Youtube leetcode videos code present here
 | ------- |
 | [0205-isomorphic-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 # Dynamic Programming
 |  |
@@ -67,3 +70,15 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
+# Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
+# Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
