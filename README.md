@@ -6,6 +6,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0541-reverse-string-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
@@ -100,6 +101,7 @@ Youtube leetcode videos code present here
 | [0389-find-the-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1534-minimum-number-of-frogs-croaking) |
