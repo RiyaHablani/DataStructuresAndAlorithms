@@ -113,6 +113,7 @@ Youtube leetcode videos code present here
 | [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2391-strong-password-checker-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2391-strong-password-checker-ii) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0415-add-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Trie
 |  |
 | ------- |
