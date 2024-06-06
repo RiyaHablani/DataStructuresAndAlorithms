@@ -101,6 +101,7 @@ Youtube leetcode videos code present here
 # String Matching
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0415-add-strings) |
