@@ -43,6 +43,7 @@ Youtube leetcode videos code present here
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -60,6 +61,7 @@ Youtube leetcode videos code present here
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -151,4 +153,5 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
