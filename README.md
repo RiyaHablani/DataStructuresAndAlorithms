@@ -46,6 +46,7 @@ Youtube leetcode videos code present here
 | [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
+| [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2341-count-prefixes-of-a-given-string) |
 # Hash Table
@@ -73,6 +74,7 @@ Youtube leetcode videos code present here
 | [0389-find-the-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
 # Dynamic Programming
 |  |
@@ -155,3 +157,7 @@ Youtube leetcode videos code present here
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
