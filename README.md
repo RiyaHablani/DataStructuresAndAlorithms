@@ -5,6 +5,7 @@ Youtube leetcode videos code present here
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
@@ -39,6 +40,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
@@ -71,6 +73,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
