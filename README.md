@@ -35,6 +35,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -50,6 +51,7 @@ Youtube leetcode videos code present here
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2341-count-prefixes-of-a-given-string) |
 # Hash Table
 |  |
@@ -79,6 +81,7 @@ Youtube leetcode videos code present here
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Dynamic Programming
 |  |
 | ------- |
