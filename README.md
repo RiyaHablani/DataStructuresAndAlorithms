@@ -35,6 +35,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
+| [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -43,6 +44,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0049-group-anagrams](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
@@ -80,6 +82,7 @@ Youtube leetcode videos code present here
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
@@ -109,6 +112,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 # Bucket Sort
 |  |
 | ------- |
