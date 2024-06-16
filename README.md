@@ -34,6 +34,7 @@ Youtube leetcode videos code present here
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -44,6 +45,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0049-group-anagrams](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
