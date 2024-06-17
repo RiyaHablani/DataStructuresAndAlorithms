@@ -8,6 +8,7 @@ Youtube leetcode videos code present here
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
@@ -152,6 +153,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0415-add-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0633-sum-of-square-numbers) |
 # Simulation
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Youtube leetcode videos code present here
 # Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0633-sum-of-square-numbers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
 # Prefix Sum
 |  |
