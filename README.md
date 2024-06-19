@@ -42,6 +42,7 @@ Youtube leetcode videos code present here
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0330-patching-array) |
+| [0376-wiggle-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
@@ -61,6 +62,7 @@ Youtube leetcode videos code present here
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0330-patching-array) |
+| [0376-wiggle-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
@@ -119,6 +121,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
 # Sliding Window
