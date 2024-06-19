@@ -43,6 +43,7 @@ Youtube leetcode videos code present here
 | [0324-wiggle-sort-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0605-can-place-flowers) |
@@ -60,6 +61,7 @@ Youtube leetcode videos code present here
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0330-patching-array) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -103,6 +105,7 @@ Youtube leetcode videos code present here
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0324-wiggle-sort-ii) |
 | [0389-find-the-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
@@ -116,6 +119,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
 # Sliding Window
 |  |
