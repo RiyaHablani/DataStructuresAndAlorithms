@@ -60,6 +60,7 @@ Youtube leetcode videos code present here
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -174,6 +175,7 @@ Youtube leetcode videos code present here
 | [0633-sum-of-square-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Prefix Sum
 |  |
 | ------- |
