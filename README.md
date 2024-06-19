@@ -5,6 +5,7 @@ Youtube leetcode videos code present here
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -37,6 +38,7 @@ Youtube leetcode videos code present here
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
@@ -49,6 +51,7 @@ Youtube leetcode videos code present here
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0330-patching-array) |
