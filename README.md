@@ -54,6 +54,7 @@ Youtube leetcode videos code present here
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
+| [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0917-boats-to-save-people) |
@@ -82,6 +83,7 @@ Youtube leetcode videos code present here
 | [0605-can-place-flowers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
+| [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
@@ -130,6 +132,7 @@ Youtube leetcode videos code present here
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
+| [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -159,11 +162,13 @@ Youtube leetcode videos code present here
 | ------- |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 # Heap (Priority Queue)
 |  |
 | ------- |
