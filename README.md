@@ -61,6 +61,7 @@ Youtube leetcode videos code present here
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
+| [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -95,6 +96,7 @@ Youtube leetcode videos code present here
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
+| [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -114,6 +116,7 @@ Youtube leetcode videos code present here
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
+| [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -139,6 +142,7 @@ Youtube leetcode videos code present here
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
+| [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Dynamic Programming
@@ -174,6 +178,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
+| [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 # Bucket Sort
 |  |
 | ------- |
@@ -240,6 +245,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
+| [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 # Divide and Conquer
 |  |
 | ------- |
