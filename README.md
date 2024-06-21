@@ -68,6 +68,7 @@ Youtube leetcode videos code present here
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3230-remove-adjacent-almost-equal-characters) |
 # Array
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Youtube leetcode videos code present here
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3230-remove-adjacent-almost-equal-characters) |
 # Sliding Window
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Youtube leetcode videos code present here
 | [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2391-strong-password-checker-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2391-strong-password-checker-ii) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Bit Manipulation
 |  |
