@@ -16,6 +16,7 @@ Youtube leetcode videos code present here
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0917-boats-to-save-people) |
+| [0979-di-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -60,6 +61,7 @@ Youtube leetcode videos code present here
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0917-boats-to-save-people) |
+| [0979-di-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
@@ -95,6 +97,7 @@ Youtube leetcode videos code present here
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0917-boats-to-save-people) |
+| [0979-di-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -215,6 +218,7 @@ Youtube leetcode videos code present here
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0778-reorganize-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
+| [0979-di-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0979-di-string-match) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
