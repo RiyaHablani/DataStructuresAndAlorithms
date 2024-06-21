@@ -63,6 +63,7 @@ Youtube leetcode videos code present here
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
+| [1961-maximum-ice-cream-bars](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -102,6 +103,7 @@ Youtube leetcode videos code present here
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1961-maximum-ice-cream-bars](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -149,6 +151,7 @@ Youtube leetcode videos code present here
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1961-maximum-ice-cream-bars](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 # Dynamic Programming
