@@ -49,6 +49,7 @@ Youtube leetcode videos code present here
 | [0324-wiggle-sort-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -171,6 +172,7 @@ Youtube leetcode videos code present here
 | [0055-jump-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
@@ -237,6 +239,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0397-integer-replacement) |
 # Math
 |  |
 | ------- |
@@ -282,3 +285,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0324-wiggle-sort-ii) |
+# Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0397-integer-replacement) |
