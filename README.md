@@ -11,6 +11,7 @@ Youtube leetcode videos code present here
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0541-reverse-string-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
@@ -58,6 +59,7 @@ Youtube leetcode videos code present here
 | [0561-array-partition](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0778-reorganize-string) |
@@ -96,6 +98,7 @@ Youtube leetcode videos code present here
 | [0561-array-partition](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -156,6 +159,7 @@ Youtube leetcode videos code present here
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0561-array-partition](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
@@ -266,6 +270,7 @@ Youtube leetcode videos code present here
 # Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
