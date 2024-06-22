@@ -111,6 +111,7 @@ Youtube leetcode videos code present here
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
+| [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1961-maximum-ice-cream-bars](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1961-maximum-ice-cream-bars) |
@@ -135,6 +136,7 @@ Youtube leetcode videos code present here
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Sorting
@@ -184,6 +186,7 @@ Youtube leetcode videos code present here
 | [0438-find-all-anagrams-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Stack
 |  |
@@ -246,6 +249,7 @@ Youtube leetcode videos code present here
 | [0415-add-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
 # Simulation
 |  |
 | ------- |
