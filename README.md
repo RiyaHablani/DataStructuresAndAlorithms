@@ -59,6 +59,7 @@ Youtube leetcode videos code present here
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
@@ -97,6 +98,7 @@ Youtube leetcode videos code present here
 | [0605-can-place-flowers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
@@ -178,6 +180,7 @@ Youtube leetcode videos code present here
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3230-remove-adjacent-almost-equal-characters) |
 # Sliding Window
 |  |
