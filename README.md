@@ -70,6 +70,7 @@ Youtube leetcode videos code present here
 | [0979-di-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [1961-maximum-ice-cream-bars](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1961-maximum-ice-cream-bars) |
@@ -111,6 +112,7 @@ Youtube leetcode videos code present here
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1018-largest-perimeter-triangle) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
@@ -167,6 +169,7 @@ Youtube leetcode videos code present here
 | [0917-boats-to-save-people](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
@@ -256,6 +259,7 @@ Youtube leetcode videos code present here
 | [0415-add-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0633-sum-of-square-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
 # Simulation
 |  |
