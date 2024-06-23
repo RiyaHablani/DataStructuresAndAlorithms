@@ -119,6 +119,7 @@ Youtube leetcode videos code present here
 | [1137-height-checker](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1961-maximum-ice-cream-bars](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1961-maximum-ice-cream-bars) |
@@ -198,6 +199,7 @@ Youtube leetcode videos code present here
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Stack
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Youtube leetcode videos code present here
 | [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0778-reorganize-string) |
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Bucket Sort
 |  |
 | ------- |
@@ -305,3 +308,15 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0397-integer-replacement) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
