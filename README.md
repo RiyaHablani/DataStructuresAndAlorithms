@@ -113,6 +113,7 @@ Youtube leetcode videos code present here
 | [0985-bag-of-tokens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0985-bag-of-tokens) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1018-largest-perimeter-triangle) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
 | [1080-camelcase-matching](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1080-camelcase-matching) |
 | [1095-two-city-scheduling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-two-city-scheduling) |
@@ -195,6 +196,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -256,6 +258,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0389-find-the-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0397-integer-replacement) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Math
 |  |
 | ------- |
@@ -287,6 +290,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1321-get-equal-substrings-within-budget](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1321-get-equal-substrings-within-budget) |
 # Counting Sort
 |  |
@@ -311,6 +315,7 @@ Youtube leetcode videos code present here
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
