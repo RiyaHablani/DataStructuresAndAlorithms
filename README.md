@@ -331,6 +331,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
+| [0871-keys-and-rooms](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1916-find-center-of-star-graph) |
 # Tree
@@ -341,6 +342,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
+| [0871-keys-and-rooms](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0871-keys-and-rooms) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
@@ -354,6 +356,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
+| [0871-keys-and-rooms](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0871-keys-and-rooms) |
 # Union Find
 |  |
 | ------- |
