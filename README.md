@@ -142,6 +142,7 @@ Youtube leetcode videos code present here
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0778-reorganize-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1044-find-common-characters) |
@@ -332,6 +333,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1916-find-center-of-star-graph) |
 # Tree
@@ -343,6 +345,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
@@ -361,3 +364,4 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
