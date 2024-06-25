@@ -332,6 +332,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1039-find-the-town-judge) |
@@ -344,6 +345,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -359,9 +361,11 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0871-keys-and-rooms) |
 # Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
