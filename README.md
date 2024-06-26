@@ -14,6 +14,7 @@ Youtube leetcode videos code present here
 | [0611-valid-triangle-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0647-palindromic-substrings) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0917-boats-to-save-people) |
@@ -105,6 +106,7 @@ Youtube leetcode videos code present here
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
@@ -171,6 +173,7 @@ Youtube leetcode videos code present here
 | [0646-maximum-length-of-pair-chain](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -224,6 +227,7 @@ Youtube leetcode videos code present here
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0778-reorganize-string) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1140-distant-barcodes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1140-distant-barcodes) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Bucket Sort
@@ -356,6 +360,7 @@ Youtube leetcode videos code present here
 # Binary Search Tree
 |  |
 | ------- |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
