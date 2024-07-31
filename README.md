@@ -438,6 +438,7 @@ Youtube leetcode videos code present here
 | [0088-merge-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -452,10 +453,12 @@ Youtube leetcode videos code present here
 | [0031-next-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
@@ -499,4 +502,8 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
