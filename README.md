@@ -428,6 +428,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
@@ -466,6 +467,7 @@ Youtube leetcode videos code present here
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2645-pass-the-pillow) |
@@ -480,6 +482,7 @@ Youtube leetcode videos code present here
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
