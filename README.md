@@ -432,6 +432,7 @@ Youtube leetcode videos code present here
 | [0073-set-matrix-zeroes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -485,6 +486,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
