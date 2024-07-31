@@ -426,6 +426,7 @@ Youtube leetcode videos code present here
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -439,6 +440,7 @@ Youtube leetcode videos code present here
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
