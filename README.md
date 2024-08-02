@@ -485,6 +485,7 @@ Youtube leetcode videos code present here
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -507,6 +508,7 @@ Youtube leetcode videos code present here
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
