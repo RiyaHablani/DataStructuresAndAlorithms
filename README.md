@@ -445,6 +445,7 @@ Youtube leetcode videos code present here
 | [0229-majority-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
@@ -469,6 +470,7 @@ Youtube leetcode videos code present here
 | [0074-search-a-2d-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -517,6 +519,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -534,4 +537,20 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
