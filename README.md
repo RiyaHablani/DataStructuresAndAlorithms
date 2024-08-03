@@ -469,6 +469,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0018-4sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0088-merge-sorted-array) |
@@ -485,6 +486,7 @@ Youtube leetcode videos code present here
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
