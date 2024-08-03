@@ -489,6 +489,7 @@ Youtube leetcode videos code present here
 | [0002-add-two-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2299-merge-nodes-in-between-zeros) |
