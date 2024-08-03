@@ -477,6 +477,7 @@ Youtube leetcode videos code present here
 | [0088-merge-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
@@ -496,6 +497,7 @@ Youtube leetcode videos code present here
 | [0025-reverse-nodes-in-k-group](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -524,6 +526,7 @@ Youtube leetcode videos code present here
 | [0021-merge-two-sorted-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -587,4 +590,8 @@ Youtube leetcode videos code present here
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
