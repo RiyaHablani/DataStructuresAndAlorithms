@@ -401,6 +401,7 @@ Youtube leetcode videos code present here
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
@@ -434,6 +435,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
@@ -472,6 +474,7 @@ Youtube leetcode videos code present here
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0031-next-permutation) |
