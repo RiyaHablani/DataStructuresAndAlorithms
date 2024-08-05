@@ -465,6 +465,7 @@ Youtube leetcode videos code present here
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -511,6 +512,7 @@ Youtube leetcode videos code present here
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
