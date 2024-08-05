@@ -7,7 +7,10 @@ class Solution {
     }
 
     private void generateSubsets(int index, int[] nums, List<Integer> current, List<List<Integer>> result) {
-        result.add(new ArrayList<>(current)); // Add the current subset to the result list
+        // Initialize a new ArrayList from current
+        ArrayList<Integer> subset = new ArrayList<>(current);
+        // Add the subset to result
+        result.add(subset);
 
         for (int i = index; i < nums.length; i++) {
             // Skip duplicates
