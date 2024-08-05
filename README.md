@@ -568,6 +568,7 @@ Youtube leetcode videos code present here
 | [0062-unique-paths](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -588,6 +589,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
 ## Combinatorics
 |  |
@@ -629,4 +631,5 @@ Youtube leetcode videos code present here
 | [0039-combination-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
