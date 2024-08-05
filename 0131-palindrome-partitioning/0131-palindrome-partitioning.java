@@ -1,35 +1,32 @@
 class Solution {
     public List<List<String>> partition(String s) {
-        List<List<String>>resultList = new ArrayList();
-        backTrack(resultList, new ArrayList(), 0, s);
-        return resultList;
+        List<List<String>> result = new ArrayList<>();
+        palindrome(0, s, new ArrayList<>(), result);
+        return result;
     }
 
-    private void backTrack(List<List<String>> resultList, List<String> currentList, int index, String s ){
-        if(s.length()==index){
-            resultList.add(new ArrayList(currentList));
-        }else{
-            for(int i= index+1; i<=s.length(); i++){
-                String currentString = s.substring(index, i);
-                if(isValidPlaindrome(currentString)){
-                    currentList.add(currentString);
-                    backTrack(resultList,currentList,i,s);
-                    currentList.remove(currentList.size()-1);
-                }
+    private void palindrome(int indx, String s, List<String> ans, List<List<String>> result) {
+        if (indx == s.length()) {
+            result.add(new ArrayList<>(ans));
+            return;
+        }
+        for (int i = indx; i < s.length(); i++) {
+            if (isPalindrome(s, indx, i)) {
+                ans.add(s.substring(indx, i + 1));
+                palindrome(i + 1, s, ans, result);
+                ans.remove(ans.size() - 1);
             }
         }
     }
 
-    private boolean isValidPlaindrome(String s){
-        int start=0;
-        int end=s.length()-1;
-        while(start<end){
-            if(s.charAt(start) != s.charAt(end)) 
-              return false;
-             start++;
-             end--;
+    private boolean isPalindrome(String s, int start, int end) {
+        while (start < end) {
+            if (s.charAt(start) != s.charAt(end)) {
+                return false;
             }
-          return true;
-        } 
-
+            start++;
+            end--;
+        }
+        return true;
+    }
 }
