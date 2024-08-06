@@ -473,6 +473,7 @@ Youtube leetcode videos code present here
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -494,6 +495,7 @@ Youtube leetcode videos code present here
 | [0229-majority-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -645,10 +647,12 @@ Youtube leetcode videos code present here
 | [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
