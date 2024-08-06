@@ -611,6 +611,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
 ## Combinatorics
@@ -641,6 +642,7 @@ Youtube leetcode videos code present here
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
