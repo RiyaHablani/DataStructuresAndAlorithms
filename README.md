@@ -410,6 +410,7 @@ Youtube leetcode videos code present here
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
@@ -417,6 +418,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -466,6 +468,7 @@ Youtube leetcode videos code present here
 | [0215-kth-largest-element-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0485-max-consecutive-ones) |
@@ -489,6 +492,7 @@ Youtube leetcode videos code present here
 | [0160-intersection-of-two-linked-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -590,6 +594,7 @@ Youtube leetcode videos code present here
 | [0053-maximum-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
@@ -601,6 +606,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -655,4 +661,9 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
