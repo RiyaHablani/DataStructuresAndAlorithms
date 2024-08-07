@@ -1,41 +1,36 @@
 class Solution {
     public int myAtoi(String s) {
-        s = s.trim();
-    
-    if (s.length() == 0) {
-        return 0;
-    }
-    
-    int index = 0;
-    int sign = 1;
-    int result = 0;
-    int maxInt = Integer.MAX_VALUE;
-    int minInt = Integer.MIN_VALUE;
-    
-    if (s.charAt(index) == '+') {
-        sign = 1;
-        index++;
-    } else if (s.charAt(index) == '-') {
-        sign = -1;
-        index++;
-    }
-    
-    while (index < s.length()) {
-        char c = s.charAt(index);
-        if (c < '0' || c > '9') {
-            break;
+        boolean neg = false;
+        int ans=0, i=0;
+        int len = s.length();
+
+        while(i<len && s.charAt(i) == ' '){
+            i++;
         }
-        
-        int digit = c - '0';
-        
-        if (result > (maxInt - digit) / 10) {
-            return (sign == 1) ? maxInt : minInt;
+
+        if(i<len){
+            char c = s.charAt(i);
+            if(c == '-'){
+                neg = true;
+                i++;
+            }
+            else if(c == '+'){
+                i++;
+            }
         }
-        
-        result = result * 10 + digit;
-        index++;
-    }
-    
-    return sign * result;
+
+        while(i<len && s.charAt(i)>='0' && s.charAt(i)<='9')
+        {
+            int digit = s.charAt(i) - '0';
+
+            if (ans > (Integer.MAX_VALUE - digit) / 10) {
+                return neg ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+            }
+
+            ans = ans * 10 + digit;
+            i++;
+        }
+
+        return neg ? -ans : ans;
     }
 }
