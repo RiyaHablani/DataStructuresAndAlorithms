@@ -510,6 +510,7 @@ Youtube leetcode videos code present here
 | [0018-4sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0061-rotate-list) |
@@ -629,6 +630,7 @@ Youtube leetcode videos code present here
 | [0008-string-to-integer-atoi](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
@@ -699,5 +701,6 @@ Youtube leetcode videos code present here
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
