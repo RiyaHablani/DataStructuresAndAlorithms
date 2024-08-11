@@ -1,14 +1,15 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int nonzeroindex=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]!=0){
-                nums[nonzeroindex]=nums[i];
-                nonzeroindex++;
+        int lastNonZeroFoundAt = 0; // Pointer to place the next non-zero element
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != 0) {
+                // Swap elements
+                int temp = nums[i];
+                nums[i] = nums[lastNonZeroFoundAt];
+                nums[lastNonZeroFoundAt] = temp;
+                lastNonZeroFoundAt++;
             }
-        }
-        for(int j=nonzeroindex;j<nums.length;j++){
-            nums[j]=0;
         }
     }
 }
