@@ -469,6 +469,7 @@ Youtube leetcode videos code present here
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0239-sliding-window-maximum) |
@@ -523,6 +524,7 @@ Youtube leetcode videos code present here
 | [0142-linked-list-cycle-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -570,6 +572,7 @@ Youtube leetcode videos code present here
 | [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2645-pass-the-pillow) |
