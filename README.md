@@ -471,6 +471,7 @@ Youtube leetcode videos code present here
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0239-sliding-window-maximum) |
@@ -612,6 +613,7 @@ Youtube leetcode videos code present here
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0213-house-robber-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
