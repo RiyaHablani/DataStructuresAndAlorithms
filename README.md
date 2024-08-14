@@ -482,6 +482,7 @@ Youtube leetcode videos code present here
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
@@ -622,6 +623,7 @@ Youtube leetcode videos code present here
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0416-partition-equal-subset-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
