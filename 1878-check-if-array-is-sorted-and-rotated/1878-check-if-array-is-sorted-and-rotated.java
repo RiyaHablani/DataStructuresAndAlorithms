@@ -1,16 +1,16 @@
 class Solution {
     public boolean check(int[] nums) {
-        int n = nums.length;
         int count = 0;
-        
-        for (int i = 0; i < n; i++) {
-            if (nums[i] > nums[(i + 1) % n]) {
+        int n = nums.length;
+        for (int i = 1; i < n; i++) {
+            if (nums[i] < nums[i - 1]) {
                 count++;
             }
-            if (count > 1) {
-                return false;
-            }
         }
-        return true;
+        if (nums[n - 1] > nums[0]) {
+            count++;
+        }
+        // If count is more than 1, then the array can't be sorted by rotation
+        return count <= 1;
     }
 }
