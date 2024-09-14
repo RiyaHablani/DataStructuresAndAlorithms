@@ -474,6 +474,7 @@ Youtube leetcode videos code present here
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0198-house-robber) |
@@ -647,6 +648,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 ## Counting
