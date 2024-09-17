@@ -495,6 +495,7 @@ Youtube leetcode videos code present here
 | [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -522,6 +523,7 @@ Youtube leetcode videos code present here
 | [0347-top-k-frequent-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -745,4 +747,8 @@ Youtube leetcode videos code present here
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
