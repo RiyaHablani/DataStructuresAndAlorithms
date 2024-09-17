@@ -460,6 +460,7 @@ Youtube leetcode videos code present here
 | [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0064-minimum-path-sum) |
@@ -578,6 +579,7 @@ Youtube leetcode videos code present here
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -615,6 +617,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0037-sudoku-solver](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0073-set-matrix-zeroes) |
