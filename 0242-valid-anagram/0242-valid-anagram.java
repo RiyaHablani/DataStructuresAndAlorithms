@@ -1,29 +1,17 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        // If lengths are different, they cannot be anagrams
         if (s.length() != t.length()) {
             return false;
         }
-
-        HashMap<Character, Integer> sMap = new HashMap<>();
-        HashMap<Character, Integer> tMap = new HashMap<>();
-
-        // Count frequency of each character in s
+        HashMap<Character, Integer> map1 = new HashMap<>();
+        HashMap<Character, Integer> map2 = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
-            char sChar = s.charAt(i);
-            sMap.put(sChar, sMap.getOrDefault(sChar, 0) + 1);
-            
-            char tChar = t.charAt(i);
-            tMap.put(tChar, tMap.getOrDefault(tChar, 0) + 1);
-        }
+            char charS = s.charAt(i);
+            char charT = t.charAt(i);
 
-        // Compare frequency maps
-        for (char key : sMap.keySet()) {
-            if (!sMap.get(key).equals(tMap.getOrDefault(key, 0))) {
-                return false;
-            }
+            map1.put(charS, map1.getOrDefault(charS, 0) + 1);
+            map2.put(charT, map2.getOrDefault(charT, 0) + 1);
         }
-
-        return true;
+        return map1.equals(map2);
     }
 }
