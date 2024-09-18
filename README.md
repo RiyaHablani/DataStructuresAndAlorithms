@@ -676,6 +676,7 @@ Youtube leetcode videos code present here
 | [0005-longest-palindromic-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
@@ -758,4 +759,8 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
