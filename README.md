@@ -685,6 +685,7 @@ Youtube leetcode videos code present here
 | [0205-isomorphic-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
@@ -757,6 +758,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
 ## Prefix Sum
 |  |
 | ------- |
