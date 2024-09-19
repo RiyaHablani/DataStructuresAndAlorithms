@@ -1,17 +1,27 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        int repeatCount = (int) Math.ceil((double) b.length() / a.length());
-        
-        String repeatedA = a.repeat(repeatCount);
-        if (repeatedA.contains(b)) {
-            return repeatCount;
+        StringBuilder repeatedA = new StringBuilder(a);
+        int count = 1;
+
+        // Repeat string `a` until its length exceeds or matches the length of `b`
+        while (repeatedA.length() < b.length()) {
+            repeatedA.append(a);
+            count++;
         }
-        
-        repeatedA = a.repeat(repeatCount + 1);
-        if (repeatedA.contains(b)) {
-            return repeatCount + 1;
+
+        // Check if `b` is now a substring of the repeated `a`
+        if (repeatedA.indexOf(b) != -1) {
+            return count;
         }
-        
+
+        // Check one more repetition of `a`
+        repeatedA.append(a);
+        count++;
+        if (repeatedA.indexOf(b) != -1) {
+            return count;
+        }
+
+        // If `b` is still not a substring, return -1
         return -1;
     }
 }
