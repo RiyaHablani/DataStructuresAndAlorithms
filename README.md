@@ -433,6 +433,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0543-diameter-of-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -653,6 +654,7 @@ Youtube leetcode videos code present here
 | [0120-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0198-house-robber) |
@@ -792,6 +794,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -799,6 +802,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
