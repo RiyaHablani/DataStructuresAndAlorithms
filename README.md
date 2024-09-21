@@ -442,6 +442,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -796,6 +797,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -805,6 +807,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0145-binary-tree-postorder-traversal) |
