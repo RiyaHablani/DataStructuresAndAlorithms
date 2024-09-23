@@ -1,12 +1,18 @@
 class Solution {
     public int singleNumber(int[] arr) {
-       int n = arr.length;
-
-        // XOR all the elements:
-        int xorr = 0;
-        for (int i = 0; i < n; i++) {
-            xorr = xorr ^ arr[i];
+        HashMap<Integer,Integer> map= new HashMap<>();
+        for(int i=0;i<arr.length;i++){
+            if(!map.containsKey(arr[i])){
+                map.put(arr[i],1);
+            }else{
+                map.put(arr[i],map.getOrDefault(arr[i],0)+1);
+            }
         }
-        return xorr;
+        for(Integer ele:map.keySet()){
+            if(map.get(ele)==1){
+                return ele;
+            }
+        }
+        return -1;
     }
 }
