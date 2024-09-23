@@ -1,14 +1,14 @@
 class Solution {
-    public int missingNumber(int[] a) {
-        int xor1 = 0, xor2 = 0, N = a.length;
-
-        // XOR of array elements
-        for (int i = 0; i < N; i++) {
-            xor2 ^= a[i]; // XOR of all elements in the array
-            xor1 ^= i + 1; // XOR of numbers from 1 to N
+    public int missingNumber(int[] nums) {
+        HashMap<Integer,Integer> map= new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            map.put(nums[i],1);
         }
-
-        // XOR of xor1 with 0 to N gives the missing number
-        return xor1 ^ xor2;
+        for(int i=0;i<=nums.length;i++){
+            if(!map.containsKey(i)){
+                return i;
+            }
+        }
+        return -1;
     }
 }
