@@ -1,20 +1,38 @@
 class Solution {
     public List<Integer> majorityElement(int[] v) {
-        int n = v.length;
-        List<Integer> ls = new ArrayList<>();
+        int n = v.length; 
+        int cnt1 = 0, cnt2 = 0; 
+        int el1 = Integer.MIN_VALUE; 
+        int el2 = Integer.MIN_VALUE; 
         for (int i = 0; i < n; i++) {
-        if (ls.size() == 0 || ls.get(0) != v[i]) {
-        int cnt = 0;
-        for (int j = 0; j < n; j++) {
-            if (v[j] == v[i]) {
-                cnt++;
+            if (cnt1 == 0 && el2 != v[i]) {
+                cnt1 = 1;
+                el1 = v[i];
+            } else if (cnt2 == 0 && el1 != v[i]) {
+                cnt2 = 1;
+                el2 = v[i];
+            } else if (v[i] == el1) {
+                cnt1++;
+            } else if (v[i] == el2) {
+                cnt2++;
+            } else {
+                cnt1--;
+                cnt2--;
             }
         }
-        if (cnt > (n / 3))
-            ls.add(v[i]);
-    }
-        if (ls.size() == 2) break;
-    }
-    return ls;
+        cnt1 = 0;
+        cnt2 = 0;
+        for (int i = 0; i < n; i++) {
+            if (v[i] == el1) cnt1++;
+            if (v[i] == el2) cnt2++;
+        }
+
+        List<Integer> ls = new ArrayList<>();
+        int mini = (int)(n / 3);  
+
+        if (cnt1 > mini) ls.add(el1);
+        if (cnt2 > mini && el2 != el1) ls.add(el2);  
+
+        return ls;
     }
 }
