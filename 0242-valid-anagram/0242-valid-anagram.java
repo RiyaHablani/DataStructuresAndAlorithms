@@ -3,15 +3,18 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-        HashMap<Character, Integer> map1 = new HashMap<>();
-        HashMap<Character, Integer> map2 = new HashMap<>();
+        HashMap<Character, Integer> map = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
             char charS = s.charAt(i);
+            map.put(charS, map.getOrDefault(charS, 0) + 1);
             char charT = t.charAt(i);
-
-            map1.put(charS, map1.getOrDefault(charS, 0) + 1);
-            map2.put(charT, map2.getOrDefault(charT, 0) + 1);
+            map.put(charT, map.getOrDefault(charT, 0) - 1);
         }
-        return map1.equals(map2);
+        for (int count : map.values()) {
+            if (count != 0) {
+                return false;
+            }
+        }
+        return true;
     }
 }
