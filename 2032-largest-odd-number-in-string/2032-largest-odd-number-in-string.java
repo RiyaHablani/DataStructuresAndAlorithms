@@ -1,11 +1,9 @@
 class Solution {
     public String largestOddNumber(String num) {
-        for(int i=num.length()-1;i>=0;i--){
-            int ch=num.charAt(i)-'0';
-            if(ch%2!=0){
-                return num.substring(0,i+1);
-            }
+        StringBuilder sb = new StringBuilder(num);
+        while (sb.length() > 0 && (sb.charAt(sb.length() - 1) - '0') % 2 == 0) {
+            sb.setLength(sb.length() - 1);  
         }
-        return "";
+        return sb.toString();
     }
 }
