@@ -692,6 +692,7 @@ Youtube leetcode videos code present here
 | [0231-power-of-two](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
 |  |
 | ------- |
