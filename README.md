@@ -392,6 +392,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2032-largest-odd-number-in-string) |
@@ -723,6 +724,7 @@ Youtube leetcode videos code present here
 | [0151-reverse-words-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
@@ -768,6 +770,7 @@ Youtube leetcode videos code present here
 | [0225-implement-stack-using-queues](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
@@ -779,6 +782,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
