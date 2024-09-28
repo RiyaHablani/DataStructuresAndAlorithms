@@ -397,6 +397,7 @@ Youtube leetcode videos code present here
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -701,6 +702,7 @@ Youtube leetcode videos code present here
 | [0416-partition-equal-subset-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -743,6 +745,7 @@ Youtube leetcode videos code present here
 | [0242-valid-anagram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -790,6 +793,7 @@ Youtube leetcode videos code present here
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
