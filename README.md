@@ -537,6 +537,7 @@ Youtube leetcode videos code present here
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -605,6 +606,7 @@ Youtube leetcode videos code present here
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -779,6 +781,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Stack
@@ -843,6 +846,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
