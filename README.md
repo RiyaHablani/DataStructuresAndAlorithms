@@ -653,6 +653,7 @@ Youtube leetcode videos code present here
 | [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0231-power-of-two) |
@@ -702,6 +703,7 @@ Youtube leetcode videos code present here
 | [0062-unique-paths](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -912,4 +914,8 @@ Youtube leetcode videos code present here
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
