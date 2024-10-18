@@ -537,6 +537,7 @@ Youtube leetcode videos code present here
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
@@ -691,6 +692,7 @@ Youtube leetcode videos code present here
 | [0064-minimum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0074-search-a-2d-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -717,6 +719,7 @@ Youtube leetcode videos code present here
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
+| [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
