@@ -1,35 +1,39 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int n=nums.length,sum=0;
-        for(int i=0;i<n;i++){
-            sum=sum+nums[i];
+        int sum = 0;
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
         }
-        if (sum % 2 != 0) {
-            return false;
-        }
-        sum=sum/2;
-        int dp[][]= new int[n][sum+1];
-        for(int row[]:dp)
-           Arrays.fill(row,-1);
-        return canPartitionUtil(n-1,sum,nums,dp);
+        
+        if (sum % 2 != 0) return false;
+        
+        int k = sum / 2;
+        return helper(nums, k);
     }
-    public static boolean canPartitionUtil(int indx,int target,int[] arr,int[][] dp){
-        if(target==0){
-            return true;
-        }
-        if(indx==0){
-            return arr[0]==target;
-        }
-        if(dp[indx][target]!=-1){
-            return dp[indx][target]==1;
-        }
-        boolean notTaken=canPartitionUtil(indx-1,target,arr,dp);
 
-        boolean taken=false;
-        if(arr[indx]<=target){
-            taken=canPartitionUtil(indx-1,target-arr[indx],arr,dp);
+    public boolean helper(int[] nums, int k) {
+        int n = nums.length;
+        boolean dp[][] = new boolean[n][k + 1];
+
+       
+        for (int i = 0; i < n; i++) {
+            dp[i][0] = true;
         }
-        dp[indx][target] = (notTaken || taken) ? 1 : 0;
-        return notTaken || taken;
+
+        if (nums[0] <= k) {
+            dp[0][nums[0]] = true;
+        }
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j <= k; j++) {
+                boolean nontaken = dp[i - 1][j];
+                boolean taken = false;
+                if (nums[i] <= j) {
+                    taken = dp[i - 1][j - nums[i]];
+                }
+                dp[i][j] = taken || nontaken;
+            }
+        }
+        return dp[n - 1][k];
     }
 }
