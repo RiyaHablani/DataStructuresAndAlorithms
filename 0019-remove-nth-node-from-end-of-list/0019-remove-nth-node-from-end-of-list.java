@@ -10,7 +10,11 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-         // Count the size of the linked list
+        if (head == null || n == 0) {
+            return head;
+        }
+
+        // Calculate the size of the list
         int size = 0;
         ListNode curr = head;
         while (curr != null) {
@@ -18,20 +22,23 @@ class Solution {
             curr = curr.next;
         }
 
-        // If the head node needs to be removed
-        if (n == size) {
+        // Special case: if the first node needs to be removed
+        if (size == n) {
             return head.next;
         }
 
-        // Traverse to the node just before the target node
-        ListNode prev = head;
+        // Reset curr to head
+        curr = head;
+
+        // Traverse to the node just before the one to be removed
         for (int i = 1; i < size - n; i++) {
-            prev = prev.next;
+            curr = curr.next;
         }
 
-        // Adjust pointers to remove the nth node
-        prev.next = prev.next.next;
+        // Remove the nth node from the end
+        curr.next = curr.next.next;
 
-        return head; // Return the updated head
+        // Return the updated list
+        return head;
     }
 }
