@@ -15,11 +15,10 @@ class Solution {
 
         for (int i = index; i < candidates.length; i++) {
             if (i > index && candidates[i] == candidates[i - 1]) continue;
-            if (candidates[i] <= target) {
+            if (candidates[i] > target) break;
                 current.add(candidates[i]); // Choose the candidate
                 combinationSumHelper(i+1, candidates,current, result, target - candidates[i]); // Recur with updated target
                 current.remove(current.size() - 1); // Backtrack
-            }
         }  
     }
 }
