@@ -651,6 +651,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -667,6 +668,7 @@ Youtube leetcode videos code present here
 | [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0204-count-primes) |
@@ -745,6 +747,7 @@ Youtube leetcode videos code present here
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0136-single-number) |
@@ -770,6 +773,7 @@ Youtube leetcode videos code present here
 | [0014-longest-common-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0205-isomorphic-strings) |
