@@ -1,36 +1,21 @@
 class Solution {
-    public int numberOfSubarrays(int[] nums, int k) {
-        for (int num : nums) {
-            if (num % 2 == 1) {
-                num = 1;
-            } else {
-                num = 0;
-            }
-        }
-
-        return numSubarraysWithSum(nums, k);
-    }
-
-    public int numSubarraysWithSum(int[] nums, int goal) {
-        return helper(nums, goal) - helper(nums, goal - 1);
-    }
-
-    public int helper(int[] nums, int goal) {
-        if (goal < 0)
-            return 0;
-        int l = 0;
-        int r = 0;
-        int sum = 0;
+    private int helper(int[] arr, int goal) {
+        int size = arr.length;
         int count = 0;
-        while (r < nums.length) {
-            sum = sum + (nums[r] % 2);
-            while (sum > goal) {
-                sum = sum - (nums[l] % 2);
-                l++;
+        int sum = 0;
+        int l = 0, r = 0;
+        while (r < size) {
+            sum += arr[r] % 2;  // Count odd numbers
+            while (sum > goal && l <= r) {
+                sum -= arr[l++] % 2;
             }
-            count += r - l + 1;
+            count += r - l + 1;  // Count valid subarrays
             r++;
         }
         return count;
+    }
+
+    public int numberOfSubarrays(int[] nums, int k) {
+        return helper(nums, k) - helper(nums, k - 1);
     }
 }
