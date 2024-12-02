@@ -714,6 +714,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0053-maximum-subarray) |
@@ -776,6 +777,7 @@ Youtube leetcode videos code present here
 | [0014-longest-common-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -832,6 +834,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0094-binary-tree-inorder-traversal) |
