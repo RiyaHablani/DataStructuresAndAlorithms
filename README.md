@@ -550,6 +550,7 @@ Youtube leetcode videos code present here
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -657,6 +658,7 @@ Youtube leetcode videos code present here
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2317-count-collisions-on-a-road](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2317-count-collisions-on-a-road) |
@@ -701,6 +703,7 @@ Youtube leetcode videos code present here
 | [0232-implement-queue-using-stacks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2195-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
 | ------- |
