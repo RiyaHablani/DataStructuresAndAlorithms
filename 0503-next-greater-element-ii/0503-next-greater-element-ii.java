@@ -2,24 +2,23 @@ class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;
         int[] result = new int[n];
-        Arrays.fill(result,-1);
         Stack<Integer> stack = new Stack<>();
-        
-        // Find left maximum for each element
+
+        // Initialize the result array with -1 (default for no greater element)
         for (int i = 0; i < n; i++) {
-            while (!stack.isEmpty() && nums[i] > nums[stack.peek()]) {
-                result[stack.pop()] = nums[i];
-            }
-            stack.push(i);
+            result[i] = -1;
         }
-        
-        // Find right maximum for each element
-        for (int i = 0; i < n; i++) {
-            while (!stack.isEmpty() && nums[i] > nums[stack.peek()]) {
-                result[stack.pop()] = nums[i];
+
+        // Traverse the array twice to simulate the circular behavior
+        for (int i = 0; i < 2 * n; i++) {
+            while (!stack.isEmpty() && nums[stack.peek()] < nums[i % n]) {
+                result[stack.pop()] = nums[i % n]; // Assign next greater element
+            }
+            if (i < n) {
+                stack.push(i); // Push only first-pass indices
             }
         }
-        
+
         return result;
     }
 }
