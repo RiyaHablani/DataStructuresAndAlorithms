@@ -693,6 +693,7 @@ Youtube leetcode videos code present here
 | [0204-count-primes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0268-missing-number) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -946,6 +947,7 @@ Youtube leetcode videos code present here
 | [0543-diameter-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -967,6 +969,7 @@ Youtube leetcode videos code present here
 | [0543-diameter-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
