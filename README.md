@@ -471,6 +471,7 @@ Youtube leetcode videos code present here
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1254-deepest-leaves-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1731-even-odd-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Topological Sort
 |  |
@@ -946,6 +947,7 @@ Youtube leetcode videos code present here
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1254-deepest-leaves-sum) |
+| [1731-even-odd-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -966,6 +968,7 @@ Youtube leetcode videos code present here
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1254-deepest-leaves-sum) |
+| [1731-even-odd-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
 |  |
