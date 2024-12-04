@@ -552,6 +552,7 @@ Youtube leetcode videos code present here
 | [0518-coin-change-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
@@ -597,6 +598,7 @@ Youtube leetcode videos code present here
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1034-subarrays-with-k-different-integers) |
@@ -814,6 +816,7 @@ Youtube leetcode videos code present here
 | [0402-remove-k-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
@@ -938,6 +941,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 ## Tree
 |  |
 | ------- |
