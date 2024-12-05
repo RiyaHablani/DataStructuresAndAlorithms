@@ -818,6 +818,7 @@ Youtube leetcode videos code present here
 | [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0482-license-key-formatting) |
+| [0551-student-attendance-record-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0551-student-attendance-record-i) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
