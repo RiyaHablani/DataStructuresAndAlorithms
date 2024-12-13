@@ -700,6 +700,7 @@ Youtube leetcode videos code present here
 | [2645-pass-the-pillow](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3447-clear-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -848,6 +849,7 @@ Youtube leetcode videos code present here
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3447-clear-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3447-clear-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -907,6 +909,7 @@ Youtube leetcode videos code present here
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2317-count-collisions-on-a-road](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2317-count-collisions-on-a-road) |
+| [3447-clear-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
