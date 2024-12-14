@@ -667,6 +667,7 @@ Youtube leetcode videos code present here
 | [0074-search-a-2d-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
@@ -1062,4 +1063,8 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0098-validate-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
