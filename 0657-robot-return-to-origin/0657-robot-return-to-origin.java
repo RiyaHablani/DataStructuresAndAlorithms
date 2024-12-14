@@ -1,22 +1,18 @@
 class Solution {
     public boolean judgeCircle(String moves) {
-        List<Character>list=new ArrayList<>();
-        int i=0;
-        while(i<=moves.length()-1){
+        int up=0,down=0,left=0,right=0;
+        for(int i=0;i<moves.length();i++){
             char ch=moves.charAt(i);
-            if(ch=='L' && list.contains('R')){
-                list.remove((Character)'R');
-            }else if(ch=='R' && list.contains('L')){
-                list.remove((Character)'L');
-            }else if(ch=='U' && list.contains('D')){
-                list.remove((Character)'D');
-            }else if(ch=='D' && list.contains('U')){
-                list.remove((Character)'U');
-            }else{
-                list.add(ch);
+            if(ch=='U'){
+                up++;
+            }else if(ch=='D'){
+                down++;
+            }else if(ch=='L'){
+                left++;
+            }else if(ch=='R'){
+                right++;
             }
-            i++;
         }
-        return list.isEmpty();
+        return up==down && right==left;
     }
 }
