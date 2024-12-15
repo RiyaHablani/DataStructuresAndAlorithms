@@ -14,23 +14,29 @@
  * }
  */
 class Solution {
-    private List<TreeNode> sortedArr = new ArrayList<>();
+    public void inorder(TreeNode root,ArrayList<Integer> list){
+        if(root==null){
+            return;
+        }
+        inorder(root.left,list);
+        list.add(root.val);
+        inorder(root.right,list);
+    }
     public TreeNode balanceBST(TreeNode root) {
-        inorderTraverse(root);
-        return sortedArrayToBST(0, sortedArr.size() - 1);
+        ArrayList<Integer> list=new ArrayList<>();
+        inorder(root,list);
+        
+        return BSTMaker(list,0,list.size()-1);
     }
-    private void inorderTraverse(TreeNode root) {
-        if (root == null) return;
-        inorderTraverse(root.left);
-        sortedArr.add(root);
-        inorderTraverse(root.right);
-    }
-    private TreeNode sortedArrayToBST(int start, int end) {
-        if (start > end) return null;
-        int mid = (start + end) / 2;
-        TreeNode root = sortedArr.get(mid);
-        root.left = sortedArrayToBST(start, mid - 1);
-        root.right = sortedArrayToBST(mid + 1, end);
+    public TreeNode BSTMaker(ArrayList<Integer>list,int start,int end){
+        if(start>end){
+            return null;
+        }
+        int mid=(start+end)/2;
+        TreeNode root=new TreeNode(list.get(mid));
+        root.left=BSTMaker(list,start,mid-1);
+        root.right=BSTMaker(list,mid+1,end);
+
         return root;
     }
 }
