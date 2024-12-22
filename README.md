@@ -458,6 +458,7 @@ Youtube leetcode videos code present here
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
 |  |
@@ -623,6 +624,7 @@ Youtube leetcode videos code present here
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -717,6 +719,7 @@ Youtube leetcode videos code present here
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
 ## Linked List
 |  |
@@ -942,10 +945,12 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
@@ -999,6 +1004,7 @@ Youtube leetcode videos code present here
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2317-count-collisions-on-a-road](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2317-count-collisions-on-a-road) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -1011,6 +1017,7 @@ Youtube leetcode videos code present here
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
 | ------- |
