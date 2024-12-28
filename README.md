@@ -590,6 +590,7 @@ Youtube leetcode videos code present here
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
@@ -862,6 +863,7 @@ Youtube leetcode videos code present here
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1236-n-th-tribonacci-number) |
