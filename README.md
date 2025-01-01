@@ -937,6 +937,7 @@ Youtube leetcode videos code present here
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1073,6 +1074,7 @@ Youtube leetcode videos code present here
 | [0966-binary-subarrays-with-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1833-find-the-highest-altitude) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
