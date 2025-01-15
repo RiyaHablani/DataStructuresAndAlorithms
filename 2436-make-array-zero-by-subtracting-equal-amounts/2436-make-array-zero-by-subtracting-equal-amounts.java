@@ -1,27 +1,13 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-        int operations=0;
+        Set<Integer> uniqueNumbers = new HashSet<>();
 
-        while(true){
-            int min=Integer.MAX_VALUE;
-            boolean allZero=true;
-
-            for(int i=0;i<nums.length;i++){
-                if (nums[i] > 0) {
-                    min = Math.min(min, nums[i]);
-                    allZero = false;
-                }
+        for (int num : nums) {
+            if (num > 0) {
+                uniqueNumbers.add(num);
             }
-            if (allZero) {
-                break;
-            }
-            for (int i = 0; i < nums.length; i++) {
-                if (nums[i] > 0) {
-                    nums[i] -= min;
-                }
-            }
-            operations++;
         }
-        return operations;
+
+        return uniqueNumbers.size();
     }
 }
