@@ -409,6 +409,7 @@ Youtube leetcode videos code present here
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Graph
 |  |
 | ------- |
@@ -446,6 +447,7 @@ Youtube leetcode videos code present here
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
@@ -465,6 +467,7 @@ Youtube leetcode videos code present here
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
@@ -640,6 +643,7 @@ Youtube leetcode videos code present here
 | [2292-counting-words-with-a-given-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -685,6 +689,7 @@ Youtube leetcode videos code present here
 | [1510-find-lucky-integer-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -783,6 +788,7 @@ Youtube leetcode videos code present here
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2317-count-collisions-on-a-road](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2317-count-collisions-on-a-road) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2645-pass-the-pillow](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
