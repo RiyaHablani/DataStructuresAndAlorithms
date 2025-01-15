@@ -1,31 +1,58 @@
-import java.util.Arrays;
-
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        // Find the minimum and maximum values in the array
-        int minValue = Arrays.stream(nums).min().getAsInt();
-        int maxValue = Arrays.stream(nums).max().getAsInt();
+        // The kth largest element corresponds to the (n-k)th smallest index in sorted order
+        int targetIdx = nums.length - k;
 
-        // Create a counting array to store the frequency of each number
-        int[] count = new int[maxValue - minValue + 1];
+        // Use the Quickselect algorithm to find the target index
+        return quickSelect(nums, 0, nums.length - 1, targetIdx);
+    }
 
-        // Populate the count array based on the frequency of each number
-        for (int num : nums) {
-            count[num - minValue]++;
+    private int quickSelect(int[] nums, int left, int right, int targetIdx) {
+        // Base case: if the left and right pointers meet, we have a single element
+        if (left == right) {
+            return nums[left];
         }
 
-        // Traverse the count array in reverse (from largest to smallest)
-        int remaining = k; // Keep track of how many elements we need
-        for (int i = count.length - 1; i >= 0; i--) {
-            remaining -= count[i]; // Reduce the count by the frequency of the current number
+        // Choose the leftmost element as the pivot
+        int pivot = nums[left];
+        int low = left;  // Pointer to move forward from the left
+        int high = right;  // Pointer to move backward from the right
 
-            // If remaining becomes <= 0, we found the kth largest element
-            if (remaining <= 0) {
-                return i + minValue; // Map back to the original number
+        // Partition the array around the pivot
+        while (low <= high) {
+            // Move the 'low' pointer to the right until finding a value >= pivot
+            while (low <= high && nums[low] < pivot) {
+                low++;
+            }
+            // Move the 'high' pointer to the left until finding a value <= pivot
+            while (low <= high && nums[high] > pivot) {
+                high--;
+            }
+            // Swap elements if 'low' is still less than or equal to 'high'
+            if (low <= high) {
+                int temp = nums[low];
+                nums[low] = nums[high];
+                nums[high] = temp;
+                low++;
+                high--;
             }
         }
 
-        // This line will never be reached due to valid input constraints
-        return -1;
+        // After partitioning:
+        // 'high' is the last index of the left (smaller) partition
+        // 'low' is the first index of the right (larger) partition
+
+        // If the target index is in the left partition, recursively search there
+        if (targetIdx <= high) {
+            return quickSelect(nums, left, high, targetIdx);
+        }
+        // If the target index is in the right partition, recursively search there
+        else if (targetIdx >= low) {
+            return quickSelect(nums, low, right, targetIdx);
+        }
+        // Otherwise, the pivot is the target element
+        else {
+            return nums[targetIdx];
+        }
     }
 }
