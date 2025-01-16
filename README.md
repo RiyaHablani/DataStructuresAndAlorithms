@@ -644,6 +644,7 @@ Youtube leetcode videos code present here
 | [2358-number-of-ways-to-split-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -918,6 +919,7 @@ Youtube leetcode videos code present here
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Counting
 |  |
 | ------- |
@@ -1211,4 +1213,5 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0319-bulb-switcher) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
