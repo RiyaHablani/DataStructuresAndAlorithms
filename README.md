@@ -523,6 +523,7 @@ Youtube leetcode videos code present here
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1731-even-odd-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1731-even-odd-tree) |
+| [1876-map-of-highest-peak](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -635,6 +636,7 @@ Youtube leetcode videos code present here
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1833-find-the-highest-altitude](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1917-maximum-average-pass-ratio) |
@@ -868,6 +870,7 @@ Youtube leetcode videos code present here
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1876-map-of-highest-peak) |
 ## Dynamic Programming
 |  |
 | ------- |
