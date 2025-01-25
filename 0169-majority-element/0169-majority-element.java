@@ -6,7 +6,8 @@ class Solution {
                 count++;
             }else{
                 count--;
-            }if(count==0){
+            }
+            if(count==0){
                 candidate=nums[i];
                 count=1;
             }
