@@ -1,38 +1,22 @@
 class Solution {
-    public List<Integer> majorityElement(int[] v) {
-        int n = v.length; 
-        int cnt1 = 0, cnt2 = 0; 
-        int el1 = Integer.MIN_VALUE; 
-        int el2 = Integer.MIN_VALUE; 
-        for (int i = 0; i < n; i++) {
-            if (cnt1 == 0 && el2 != v[i]) {
-                cnt1 = 1;
-                el1 = v[i];
-            } else if (cnt2 == 0 && el1 != v[i]) {
-                cnt2 = 1;
-                el2 = v[i];
-            } else if (v[i] == el1) {
-                cnt1++;
-            } else if (v[i] == el2) {
-                cnt2++;
-            } else {
-                cnt1--;
-                cnt2--;
+    public List<Integer> majorityElement(int[] arr) {
+        int n = arr.length;
+        ArrayList<Integer> list = new ArrayList<>();
+        
+        int max = 0;
+        for (int num : arr) {
+            max = Math.max(max, num);
+        }
+        int freq[] = new int[max + 1];
+        for (int i = 0; i < arr.length; i++) {
+            freq[arr[i]]++;
+        }
+        for (int i = 0; i < freq.length; i++) {
+            if (freq[i] > n / 3) {
+                list.add(i);
             }
         }
-        cnt1 = 0;
-        cnt2 = 0;
-        for (int i = 0; i < n; i++) {
-            if (v[i] == el1) cnt1++;
-            if (v[i] == el2) cnt2++;
-        }
 
-        List<Integer> ls = new ArrayList<>();
-        int mini = (int)(n / 3);  
-
-        if (cnt1 > mini) ls.add(el1);
-        if (cnt2 > mini && el2 != el1) ls.add(el2);  
-
-        return ls;
+        return list;
     }
 }
