@@ -452,6 +452,7 @@ Youtube leetcode videos code present here
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Heap (Priority Queue)
 |  |
@@ -541,6 +542,7 @@ Youtube leetcode videos code present here
 | [0128-longest-consecutive-sequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Array
 |  |
 | ------- |
@@ -665,6 +667,7 @@ Youtube leetcode videos code present here
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
