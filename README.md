@@ -421,6 +421,7 @@ Youtube leetcode videos code present here
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Sorting
 |  |
@@ -539,6 +540,7 @@ Youtube leetcode videos code present here
 | [1876-map-of-highest-peak](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
@@ -555,6 +557,7 @@ Youtube leetcode videos code present here
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0684-redundant-connection) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Array
