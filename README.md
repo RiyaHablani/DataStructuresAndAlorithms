@@ -692,6 +692,7 @@ Youtube leetcode videos code present here
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -732,6 +733,7 @@ Youtube leetcode videos code present here
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Two Pointers
@@ -832,6 +834,7 @@ Youtube leetcode videos code present here
 | [2645-pass-the-pillow](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
