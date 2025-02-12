@@ -454,6 +454,7 @@ Youtube leetcode videos code present here
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -476,6 +477,7 @@ Youtube leetcode videos code present here
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
@@ -678,6 +680,7 @@ Youtube leetcode videos code present here
 | [2358-number-of-ways-to-split-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -731,6 +734,7 @@ Youtube leetcode videos code present here
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
