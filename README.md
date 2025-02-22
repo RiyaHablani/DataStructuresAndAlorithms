@@ -507,6 +507,7 @@ Youtube leetcode videos code present here
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1254-deepest-leaves-sum) |
@@ -1021,6 +1022,7 @@ Youtube leetcode videos code present here
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1209,6 +1211,7 @@ Youtube leetcode videos code present here
 | [0543-diameter-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
@@ -1241,6 +1244,7 @@ Youtube leetcode videos code present here
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
