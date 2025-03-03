@@ -16,10 +16,10 @@ class Solution {
             curr=curr.next;
             count++;
         }
-        int temp=count/2;
+        int mid=count/2;
         curr=head;
-        for(int i=0;i<temp;i++){
-           curr=curr.next;
+        for(int i=0;i<mid;i++){
+            curr=curr.next;
         }
         return curr;
     }
