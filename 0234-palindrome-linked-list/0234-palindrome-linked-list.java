@@ -10,31 +10,40 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-         if (head == null || head.next == null) return true;
-
-        // Find the middle of the list
-        ListNode slow = head, fast = head;
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        int size=0;
+        ListNode curr=head;
+        while(curr!=null){
+            size++;
+            curr=curr.next;
         }
-
-        // Reverse the second half of the list
-        ListNode prev = null, curr = slow;
-        while (curr != null) {
-            ListNode temp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = temp;
+        int mid=size/2;
+        curr=head;
+        for(int i=1;i<=mid;i++){
+            curr=curr.next;
         }
+        ListNode firstNode=head;
+        ListNode secondNode=reverse(curr);
 
-        // Compare the two halves
-        ListNode first = head, second = prev;
-        while (second != null) {
-            if (first.val != second.val) return false;
-            first = first.next;
-            second = second.next;
+        while(secondNode!=null){
+            if(firstNode.val!=secondNode.val){
+                return false;
+            }
+            firstNode=firstNode.next;
+            secondNode=secondNode.next;
         }
         return true;
+    }
+    public ListNode reverse(ListNode head){
+       ListNode curr=head;
+       ListNode prev=null;
+       ListNode next=null;
+       while(curr!=null){
+            next=curr.next;
+            curr.next=prev;
+
+            prev=curr;
+            curr=next;
+       }
+       return prev;
     }
 }
