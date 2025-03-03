@@ -10,17 +10,9 @@ class Solution {
                 count2++;
             }
         }
-        for(int i=0;i<nums.length;i++){
-            if (i < count0) {
-                nums[i] = 0;
-            } else if (i < count0 + count1) {
-                nums[i] = 1;
-            } else {
-                nums[i] = 2;
-            }
-        }
+       int j = 0;
+        for (int i = 0; i < count0; i++) nums[j++] = 0;
+        for (int i = 0; i < count1; i++) nums[j++] = 1;
+        for (int i = 0; i < count2; i++) nums[j++] = 2;
     }
 }
-//2 0 2 1 1 0 //2 0 1
-//0 0 2 1 1 2
-//0 0 1 1 2 2
