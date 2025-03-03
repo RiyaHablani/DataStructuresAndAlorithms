@@ -1,20 +1,14 @@
 class Solution {
-    public int findContentChildren(int[] greed, int[] cookie) {
-        // Initialize pointers and count
-        int i = 0, j = 0, count = 0;
-
-        // Sort both arrays to facilitate greedy assignment
-        Arrays.sort(greed);
-        Arrays.sort(cookie);
-
-        // Iterate through greed and cookie arrays
-        while (i < greed.length && j < cookie.length) {
-            // If the cookie satisfies the greed level
-            if (cookie[j] >= greed[i]) {
-                count++; // Increment the count of satisfied children
-                i++;     // Move to the next child
+    public int findContentChildren(int[] g, int[] s) {
+        int j=0,i=0,count=0;
+        Arrays.sort(g);//7 8 9 10
+        Arrays.sort(s);// 5 6 7 8
+        while (i < g.length && j < s.length){
+            if(g[i]<=s[j]){
+                count++;
+                i++;
             }
-            j++;         // Move to the next cookie
+            j++;
         }
         return count;
     }
