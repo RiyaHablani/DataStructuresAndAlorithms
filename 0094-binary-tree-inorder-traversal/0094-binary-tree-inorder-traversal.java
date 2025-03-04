@@ -19,8 +19,10 @@ class Solution {
         inorderTraversalHelper(root,result);
         return result;
     }
-    private static void inorderTraversalHelper(TreeNode root,List<Integer> result){
-        if(root==null) return;
+    public static void inorderTraversalHelper(TreeNode root,List<Integer> result){
+        if(root==null){
+            return;
+        }
         inorderTraversalHelper(root.left,result);
         result.add(root.val);
         inorderTraversalHelper(root.right,result);
