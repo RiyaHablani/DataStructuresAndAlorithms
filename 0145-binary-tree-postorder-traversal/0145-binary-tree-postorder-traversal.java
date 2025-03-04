@@ -17,10 +17,12 @@ class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> result=new ArrayList<>();
         postorderTraversalHelper(root,result);
-        return result;
+        return result;   
     }
-    private static void postorderTraversalHelper(TreeNode root,List<Integer> result){
-        if(root==null) return;
+    public static void postorderTraversalHelper(TreeNode root,List<Integer> result){
+        if(root==null){
+            return;
+        }
         postorderTraversalHelper(root.left,result);
         postorderTraversalHelper(root.right,result);
         result.add(root.val);
