@@ -16,10 +16,10 @@
 class Solution {
     public boolean isBalanced(TreeNode root) {
         if(root==null) return true;
-        if (Height(root) == -1) return false;
+        if(Height(root)==-1)return false;
         return true;
     }
-    public int Height(TreeNode root) {
+    public int Height(TreeNode root){
         if(root==null) return 0;
         int leftHeight=Height(root.left);
         int rightHeight=Height(root.right);
