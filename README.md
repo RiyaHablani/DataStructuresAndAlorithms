@@ -498,6 +498,7 @@ Youtube leetcode videos code present here
 | [0145-binary-tree-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0513-find-bottom-left-tree-value) |
@@ -1231,6 +1232,7 @@ Youtube leetcode videos code present here
 | [0144-binary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0513-find-bottom-left-tree-value) |
@@ -1267,6 +1269,7 @@ Youtube leetcode videos code present here
 | [0144-binary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0513-find-bottom-left-tree-value) |
@@ -1307,6 +1310,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1285-balance-a-binary-search-tree) |
 ## Interactive
