@@ -898,6 +898,7 @@ Youtube leetcode videos code present here
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2610-closest-prime-numbers-in-range](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1300,6 +1301,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2610-closest-prime-numbers-in-range) |
 ## Design
 |  |
 | ------- |
