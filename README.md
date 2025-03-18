@@ -695,6 +695,7 @@ Youtube leetcode videos code present here
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1015,6 +1016,7 @@ Youtube leetcode videos code present here
 | [0338-counting-bits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0338-counting-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2478-longest-nice-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2792-neighboring-bitwise-xor) |
 ## Counting
@@ -1127,6 +1129,7 @@ Youtube leetcode videos code present here
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2478-longest-nice-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
