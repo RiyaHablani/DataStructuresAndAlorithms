@@ -423,6 +423,7 @@ Youtube leetcode videos code present here
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Sorting
 |  |
@@ -572,6 +573,7 @@ Youtube leetcode videos code present here
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Array
 |  |
 | ------- |
@@ -714,6 +716,7 @@ Youtube leetcode videos code present here
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1019,6 +1022,7 @@ Youtube leetcode videos code present here
 | [2478-longest-nice-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Counting
 |  |
 | ------- |
