@@ -462,6 +462,7 @@ Youtube leetcode videos code present here
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3430-count-days-without-meetings) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -722,6 +723,7 @@ Youtube leetcode videos code present here
 | [3430-count-days-without-meetings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
