@@ -452,6 +452,7 @@ Youtube leetcode videos code present here
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -688,6 +689,7 @@ Youtube leetcode videos code present here
 | [1917-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -913,6 +915,7 @@ Youtube leetcode videos code present here
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2649-count-total-number-of-colored-cells) |
@@ -959,6 +962,7 @@ Youtube leetcode videos code present here
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1876-map-of-highest-peak) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
