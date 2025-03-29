@@ -410,6 +410,7 @@ Youtube leetcode videos code present here
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 ## Graph
 |  |
 | ------- |
@@ -462,6 +463,7 @@ Youtube leetcode videos code present here
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3430-count-days-without-meetings) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
@@ -724,6 +726,7 @@ Youtube leetcode videos code present here
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
@@ -930,6 +933,7 @@ Youtube leetcode videos code present here
 | [2649-count-total-number-of-colored-cells](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -1185,6 +1189,7 @@ Youtube leetcode videos code present here
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2317-count-collisions-on-a-road](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2317-count-collisions-on-a-road) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -1198,6 +1203,7 @@ Youtube leetcode videos code present here
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
@@ -1338,6 +1344,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0204-count-primes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 ## Design
 |  |
 | ------- |
