@@ -1089,6 +1089,7 @@ Youtube leetcode videos code present here
 | [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
