@@ -956,6 +956,7 @@ Youtube leetcode videos code present here
 | [2649-count-total-number-of-colored-cells](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
@@ -1371,6 +1372,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0204-count-primes) |
+| [2998-count-symmetric-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
