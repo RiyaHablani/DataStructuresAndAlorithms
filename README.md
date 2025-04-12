@@ -803,6 +803,7 @@ Youtube leetcode videos code present here
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -957,6 +958,7 @@ Youtube leetcode videos code present here
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
+| [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -1150,6 +1152,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0062-unique-paths) |
+| [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1368,6 +1371,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0204-count-primes) |
+| [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
 | ------- |
