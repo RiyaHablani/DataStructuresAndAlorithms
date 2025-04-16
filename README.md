@@ -726,6 +726,7 @@ Youtube leetcode videos code present here
 | [2564-most-profitable-path-in-a-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2690-house-robber-iv) |
@@ -799,6 +800,7 @@ Youtube leetcode videos code present here
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1198,6 +1200,7 @@ Youtube leetcode videos code present here
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
