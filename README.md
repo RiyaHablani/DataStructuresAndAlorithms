@@ -466,6 +466,7 @@ Youtube leetcode videos code present here
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
@@ -734,6 +735,7 @@ Youtube leetcode videos code present here
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -850,6 +852,7 @@ Youtube leetcode videos code present here
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
@@ -875,6 +878,7 @@ Youtube leetcode videos code present here
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
