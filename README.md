@@ -796,6 +796,7 @@ Youtube leetcode videos code present here
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -956,6 +957,7 @@ Youtube leetcode videos code present here
 | [1236-n-th-tribonacci-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1500-count-largest-group](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
