@@ -689,6 +689,7 @@ Youtube leetcode videos code present here
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -962,6 +963,7 @@ Youtube leetcode videos code present here
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1236-n-th-tribonacci-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1500-count-largest-group](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
