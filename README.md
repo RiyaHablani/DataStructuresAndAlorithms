@@ -1064,6 +1064,7 @@ Youtube leetcode videos code present here
 | [0518-coin-change-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0806-domino-and-tromino-tiling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
