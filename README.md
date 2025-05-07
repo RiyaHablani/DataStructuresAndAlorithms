@@ -430,6 +430,7 @@ Youtube leetcode videos code present here
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
 |  |
 | ------- |
@@ -503,6 +504,7 @@ Youtube leetcode videos code present here
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -767,6 +769,7 @@ Youtube leetcode videos code present here
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -1036,6 +1039,7 @@ Youtube leetcode videos code present here
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1466,4 +1470,5 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
