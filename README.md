@@ -762,6 +762,7 @@ Youtube leetcode videos code present here
 | [2888-minimum-index-of-a-valid-split](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -1095,6 +1096,7 @@ Youtube leetcode videos code present here
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2562-count-ways-to-build-good-strings) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1207,6 +1209,7 @@ Youtube leetcode videos code present here
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3447-clear-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
