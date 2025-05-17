@@ -10,7 +10,7 @@ class Solution {
                 count2++;
             }
         }
-       int j = 0;
+        int j = 0;
         for (int i = 0; i < count0; i++) nums[j++] = 0;
         for (int i = 0; i < count1; i++) nums[j++] = 1;
         for (int i = 0; i < count2; i++) nums[j++] = 2;
