@@ -416,6 +416,7 @@ Youtube leetcode videos code present here
 | [2681-put-marbles-in-bags](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3647-zero-array-transformation-iii) |
 ## Graph
 |  |
 | ------- |
@@ -480,6 +481,7 @@ Youtube leetcode videos code present here
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3430-count-days-without-meetings) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3647-zero-array-transformation-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
@@ -509,6 +511,7 @@ Youtube leetcode videos code present here
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3647-zero-array-transformation-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -779,6 +782,7 @@ Youtube leetcode videos code present here
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -1376,6 +1380,7 @@ Youtube leetcode videos code present here
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3647-zero-array-transformation-iii) |
 ## Trie
 |  |
 | ------- |
