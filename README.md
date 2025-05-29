@@ -554,6 +554,7 @@ Youtube leetcode videos code present here
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -589,6 +590,7 @@ Youtube leetcode videos code present here
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1440,6 +1442,7 @@ Youtube leetcode videos code present here
 | [2564-most-profitable-path-in-a-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
