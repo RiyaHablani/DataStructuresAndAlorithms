@@ -1021,6 +1021,7 @@ Youtube leetcode videos code present here
 | [2998-count-symmetric-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1247,6 +1248,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0062-unique-paths) |
+| [3201-distribute-candies-among-children-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Indexed Tree
@@ -1488,6 +1490,7 @@ Youtube leetcode videos code present here
 | [1656-count-good-triplets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
