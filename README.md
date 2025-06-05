@@ -608,6 +608,7 @@ Youtube leetcode videos code present here
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1212,6 +1213,7 @@ Youtube leetcode videos code present here
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1146-greatest-common-divisor-of-strings) |
