@@ -1415,6 +1415,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 ## Tree
 |  |
