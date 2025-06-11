@@ -1251,6 +1251,7 @@ Youtube leetcode videos code present here
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1304,6 +1305,7 @@ Youtube leetcode videos code present here
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1410,6 +1412,7 @@ Youtube leetcode videos code present here
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
 | ------- |
@@ -1502,6 +1505,7 @@ Youtube leetcode videos code present here
 | [3201-distribute-candies-among-children-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
 | ------- |
