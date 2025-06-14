@@ -416,6 +416,7 @@ Youtube leetcode videos code present here
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2681-put-marbles-in-bags](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -1024,6 +1025,7 @@ Youtube leetcode videos code present here
 | [2610-closest-prime-numbers-in-range](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2998-count-symmetric-integers) |
