@@ -414,6 +414,7 @@ Youtube leetcode videos code present here
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2681-put-marbles-in-bags](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2681-put-marbles-in-bags) |
@@ -1144,6 +1145,7 @@ Youtube leetcode videos code present here
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1260,6 +1262,7 @@ Youtube leetcode videos code present here
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2317-count-collisions-on-a-road](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2317-count-collisions-on-a-road) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
@@ -1549,6 +1552,7 @@ Youtube leetcode videos code present here
 | [0070-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Search Tree
 |  |
 | ------- |
