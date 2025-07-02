@@ -1151,6 +1151,7 @@ Youtube leetcode videos code present here
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1279,6 +1280,7 @@ Youtube leetcode videos code present here
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1443,6 +1445,7 @@ Youtube leetcode videos code present here
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
