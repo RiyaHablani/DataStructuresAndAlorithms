@@ -746,6 +746,7 @@ Youtube leetcode videos code present here
 | [1917-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -861,6 +862,7 @@ Youtube leetcode videos code present here
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1559,6 +1561,7 @@ Youtube leetcode videos code present here
 | [0225-implement-stack-using-queues](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0232-implement-queue-using-stacks) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Memoization
 |  |
 | ------- |
