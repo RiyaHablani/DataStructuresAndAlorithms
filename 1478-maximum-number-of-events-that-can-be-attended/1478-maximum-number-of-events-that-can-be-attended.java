@@ -1,31 +1,29 @@
+import java.util.*;
+
 class Solution {
-    int search(int[] nextDay, int day) {
-        if (nextDay[day] != day) {
-            nextDay[day] = search(nextDay, nextDay[day]);
-        }
-        return nextDay[day];
-    }
-
     public int maxEvents(int[][] events) {
-        Arrays.sort(events, (a, b) -> a[1] - b[1]);
-
-        int[] nextDay = new int[events[events.length - 1][1] + 2];
-        for (int d = 0; d < nextDay.length; d++) {
-            nextDay[d] = d;
-        }
-
-        int count = 0;
-        for (int[] evt : events) {
-            int start = evt[0];
-            int end = evt[1];
-            int day = search(nextDay, start);
-            if (day <= end) {
-                count++;
-                nextDay[day] = search(nextDay, day + 1);
+        // Sort events by start day
+        Arrays.sort(events, (a, b) -> a[0] - b[0]);
+        // Min-heap for event end days
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        int i = 0, n = events.length, res = 0;
+        // Find the last day
+        int lastDay = 0;
+        for (int[] e : events) lastDay = Math.max(lastDay, e[1]);
+        // Iterate through each day
+        for (int day = 1; day <= lastDay; day++) {
+            // Add all events that start today
+            while (i < n && events[i][0] == day)
+                pq.offer(events[i++][1]);
+            // Remove all events that have ended
+            while (!pq.isEmpty() && pq.peek() < day)
+                pq.poll();
+            // Attend the event that ends earliest
+            if (!pq.isEmpty()) {
+                pq.poll();
+                res++;
             }
         }
-
-        return count;
+        return res;
     }
-
 }
