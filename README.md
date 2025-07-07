@@ -407,6 +407,7 @@ Youtube leetcode videos code present here
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1285-balance-a-binary-search-tree) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -471,6 +472,7 @@ Youtube leetcode videos code present here
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -507,6 +509,7 @@ Youtube leetcode videos code present here
 | [0506-relative-ranks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1917-maximum-average-pass-ratio) |
@@ -729,6 +732,7 @@ Youtube leetcode videos code present here
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
