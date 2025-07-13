@@ -418,6 +418,7 @@ Youtube leetcode videos code present here
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -487,6 +488,7 @@ Youtube leetcode videos code present here
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -782,6 +784,7 @@ Youtube leetcode videos code present here
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -936,6 +939,7 @@ Youtube leetcode videos code present here
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
