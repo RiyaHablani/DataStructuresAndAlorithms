@@ -1,26 +1,33 @@
 class Solution {
     public int trap(int[] height) {
         int n = height.length;
-        int left = 0, right = n - 1;
-        int res = 0;
-        int maxLeft = 0, maxRight = 0;
-        while (left <= right) {
-            if (height[left] <= height[right]) {
-                if (height[left] >= maxLeft) {
-                    maxLeft = height[left];
+        int left = 0;          // left pointer
+        int right = n - 1;     // right pointer
+        int leftMax = 0;       // max height to the left
+        int rightMax = 0;      // max height to the right
+        int water = 0;         // total water trapped
+
+        // Process until pointers meet
+        while (left < right) {
+            if (height[left] < height[right]) {
+                // Left is smaller, process left side
+                if (height[left] >= leftMax) {
+                    leftMax = height[left];  // update max
                 } else {
-                    res += maxLeft - height[left];
+                    water += leftMax - height[left];  // trap water
                 }
                 left++;
             } else {
-                if (height[right] >= maxRight) {
-                    maxRight = height[right];
+                // Right is smaller, process right side
+                if (height[right] >= rightMax) {
+                    rightMax = height[right];  // update max
                 } else {
-                    res += maxRight - height[right];
+                    water += rightMax - height[right];  // trap water
                 }
                 right--;
             }
         }
-        return res;
+
+        return water;
     }
 }
