@@ -598,6 +598,7 @@ Youtube leetcode videos code present here
 | [0820-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0945-snakes-and-ladders) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1452,6 +1453,7 @@ Youtube leetcode videos code present here
 | [0078-subsets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1160-letter-tile-possibilities](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
