@@ -1405,6 +1405,7 @@ Youtube leetcode videos code present here
 | [0144-binary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
@@ -1611,6 +1612,7 @@ Youtube leetcode videos code present here
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0232-implement-queue-using-stacks) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
