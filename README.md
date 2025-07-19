@@ -570,6 +570,7 @@ Youtube leetcode videos code present here
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1285-balance-a-binary-search-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1558-course-schedule-iv) |
@@ -743,6 +744,7 @@ Youtube leetcode videos code present here
 | [1072-next-greater-node-in-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1304,6 +1306,7 @@ Youtube leetcode videos code present here
 | [1146-greatest-common-divisor-of-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1517,6 +1520,7 @@ Youtube leetcode videos code present here
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0692-top-k-frequent-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Tree
 |  |
 | ------- |
