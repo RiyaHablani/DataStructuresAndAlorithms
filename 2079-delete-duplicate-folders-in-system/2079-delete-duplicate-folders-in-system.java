@@ -8,43 +8,45 @@ class Solution {
     Trie root = new Trie();
 
     public List<List<String>> deleteDuplicateFolder(List<List<String>> paths) {
-        // Build Trie
+        // Build the trie from all paths
         for (List<String> path : paths) {
-            Trie cur = root;
-            for (String f : path) {
-                cur.children.putIfAbsent(f, new Trie());
-                cur = cur.children.get(f);
-                cur.key = f;
+            Trie node = root;
+            for (String folder : path) {
+                node.children.putIfAbsent(folder, new Trie());
+                node = node.children.get(folder);
+                node.key = folder;
             }
         }
-        // Mark duplicates
+        // Mark duplicates by serialization
         serialize(root);
-        // Collect
-        List<List<String>> res = new ArrayList<>();
-        dfs(root, new ArrayList<>(), res);
-        return res;
+        // Collect all valid paths
+        List<List<String>> result = new ArrayList<>();
+        collect(root, new ArrayList<>(), result);
+        return result;
     }
 
+    // Serialize subtree, track duplicates
     String serialize(Trie node) {
         if (node.children.isEmpty()) return "";
-        List<String> list = new ArrayList<>();
-        for (var e : node.children.entrySet())
-            list.add(e.getKey() + "(" + serialize(e.getValue()) + ")");
-        Collections.sort(list);
-        String serial = String.join("", list);
+        List<String> serials = new ArrayList<>();
+        for (Trie child : node.children.values())
+            serials.add(child.key + "(" + serialize(child) + ")");
+        Collections.sort(serials);
+        String serial = String.join("", serials);
         seen.computeIfAbsent(serial, k -> new ArrayList<>()).add(node);
-        if (seen.get(serial).size() > 1)
+        if (seen.get(serial).size() > 1) {
             for (Trie t : seen.get(serial)) t.deleted = true;
+        }
         return serial;
     }
 
-    void dfs(Trie node, List<String> path, List<List<String>> res) {
-        for (var e : node.children.entrySet()) {
-            Trie child = e.getValue();
+    // Collect non-deleted paths
+    void collect(Trie node, List<String> path, List<List<String>> result) {
+        for (Trie child : node.children.values()) {
             if (child.deleted) continue;
             path.add(child.key);
-            res.add(new ArrayList<>(path));
-            dfs(child, path, res);
+            result.add(new ArrayList<>(path));
+            collect(child, path, result);
             path.remove(path.size() - 1);
         }
     }
