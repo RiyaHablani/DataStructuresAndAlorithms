@@ -1083,6 +1083,7 @@ Youtube leetcode videos code present here
 | [0268-missing-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0368-largest-divisible-subset) |
+| [0826-soup-servings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0826-soup-servings) |
 | [1031-add-to-array-form-of-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
@@ -1202,6 +1203,7 @@ Youtube leetcode videos code present here
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0741-cherry-pickup](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0741-cherry-pickup) |
 | [0806-domino-and-tromino-tiling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1699,4 +1701,8 @@ Youtube leetcode videos code present here
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0572-subtree-of-another-tree) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2079-delete-duplicate-folders-in-system) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
