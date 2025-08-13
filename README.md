@@ -1084,6 +1084,7 @@ Youtube leetcode videos code present here
 | [0231-power-of-two](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0900-reordered-power-of-2) |
@@ -1131,6 +1132,7 @@ Youtube leetcode videos code present here
 | [0206-reverse-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
