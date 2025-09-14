@@ -1,29 +1,37 @@
 class Solution {
-    public int rob(int[] nums) {
-        int n = nums.length;
-        if (n == 0) return 0;
-        if (n == 1) return nums[0];
+    public int rob1(int[] nums) {
+        //TC:O(n),SC:O(1)
+        int n=nums.length;
+        if(n==1) return nums[0];
 
-        int max1 = robRange(nums, 0, n - 2);
-        
-        int max2 = robRange(nums, 1, n - 1);
+        int prev2=0;
+        int prev1=nums[0];
+        int ans=0;
+        for(int index=2;index<=n;index++){
+            int pick=nums[index-1]+prev2;
+            int nonpick=0+prev1;
+            ans=Math.max(pick,nonpick);
 
-        return Math.max(max1, max2);
-    }
-
-    private int robRange(int[] nums, int start, int end) {
-        if (start == end) return nums[start];
-
-        int prev2 = 0;
-        int prev1 = 0;
-        int curr = 0;
-
-        for (int i = start; i <= end; i++) {
-            curr = Math.max(prev1, nums[i] + prev2);
-            prev2 = prev1;
-            prev1 = curr;
+            prev2=prev1;
+            prev1=ans;
         }
-
-        return curr;
+        return ans;
+    }
+    public int rob(int[] nums) {
+        int n=nums.length;
+        if (n == 1) return nums[0];
+        int num1[]=new int[n-1];
+        int num2[]=new int[n-1];
+        int j=0,k=0;
+        for(int i=0;i<n;i++){
+           if(i!=0){
+            num1[j]=nums[i];
+            j++;
+           }if(i!=n-1){
+            num2[k]=nums[i];
+            k++;
+           }
+        }
+        return Math.max(rob1(num1),rob1(num2));
     }
 }
