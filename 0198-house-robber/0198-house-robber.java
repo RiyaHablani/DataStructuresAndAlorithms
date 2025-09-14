@@ -1,18 +1,47 @@
 class Solution {
+    // public int rob(int[] nums) {
+    //     int n=nums.length;
+    //     return rec(nums,n-1);
+    // }
+    // public int rec(int nums[],int index){
+    //     //base case
+    //     //TC:O(2^n),SC:O(n)
+    //     if(index==0){
+    //         return nums[0];
+    //     }if(index==-1){
+    //         return 0;
+    //     }
+    //     //pick and no pick logic
+    //     int pick=nums[index]+rec(nums,index-2);
+    //     int nonpick=0+rec(nums,index-1);
+    //     return Math.max(pick,nonpick);
+    // }
+
+
     public int rob(int[] nums) {
         int n=nums.length;
-        int dp[]= new int[n+1];
-
-        if(n==0) return 0;
-        if(n==1) return nums[0];
-
-        int prev2=nums[0];
-        int prev1=Math.max(nums[0],nums[1]);
-        for(int i=2;i<n;i++){
-            int curr=Math.max(prev1,nums[i]+prev2);
-            prev2=prev1;
-            prev1=curr;
+        int dp[]=new int[n+1];
+        Arrays.fill(dp,-1);
+        return rec(nums,n,dp);
+    }
+    public int rec(int nums[],int index,int dp[]){
+        //base case
+        //TC:O(2^n),SC:O(n)
+        //shifting logic->index->+1,dp->as it is,nums->-1
+        if(index==1){
+            dp[index]=nums[0];
+            return nums[0];
+        }if(index==0){
+            dp[index]=0;
+            return 0;
         }
-        return prev1;        
+        if(dp[index]!=-1){
+            return dp[index];
+        }
+        //pick and no pick logic
+        int pick=nums[index-1]+rec(nums,index-2,dp);
+        int nonpick=0+rec(nums,index-1,dp);
+        dp[index]=Math.max(pick,nonpick);
+        return dp[index];
     }
 }
