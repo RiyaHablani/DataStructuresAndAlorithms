@@ -50,16 +50,38 @@ class Solution {
 
 
 
+    // public int rob(int[] nums) {
+    //     //TC:O(n),SC:O(n)
+    //     int n=nums.length;
+    //     int dp[]=new int[n+1];
+    //     dp[0]=0;
+    //     dp[1]=nums[0];
+    //     for(int index=2;index<=n;index++){
+    //         int pick=nums[index-1]+dp[index-2];
+    //         int nonpick=0+dp[index-1];
+    //         dp[index]=Math.max(pick,nonpick);
+    //     }
+    //     return dp[n];
+    // }
+
+
+
     public int rob(int[] nums) {
+        //TC:O(n),SC:O(n)
         int n=nums.length;
-        int dp[]=new int[n+1];
-        dp[0]=0;
-        dp[1]=nums[0];
+        if(n==1) return nums[0];
+        
+        int prev2=0;
+        int prev1=nums[0];
+        int ans=0;
         for(int index=2;index<=n;index++){
-            int pick=nums[index-1]+dp[index-2];
-            int nonpick=0+dp[index-1];
-            dp[index]=Math.max(pick,nonpick);
+            int pick=nums[index-1]+prev2;
+            int nonpick=0+prev1;
+            ans=Math.max(pick,nonpick);
+
+            prev2=prev1;
+            prev1=ans;
         }
-        return dp[n];
+        return ans;
     }
 }
