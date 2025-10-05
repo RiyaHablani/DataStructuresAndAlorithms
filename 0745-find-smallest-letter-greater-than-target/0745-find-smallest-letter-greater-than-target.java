@@ -11,10 +11,12 @@ class Solution {
                 ans=letters[mid];
                 end=mid-1;
             }
-        }if(ans=='$'){
-            return letters[0];
-        }else{
-            return ans;
         }
+        // if(ans=='$'){
+        //     return letters[0];
+        // }else{
+        //     return ans;
+        // }
+        return (ans=='$')?letters[0]:ans;
     }
 }
