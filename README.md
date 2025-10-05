@@ -726,6 +726,7 @@ Youtube leetcode videos code present here
 | [0724-find-pivot-index](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0741-cherry-pickup) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0792-binary-search) |
@@ -996,6 +997,7 @@ Youtube leetcode videos code present here
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
