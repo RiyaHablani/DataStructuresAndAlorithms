@@ -1003,6 +1003,7 @@ Youtube leetcode videos code present here
 | [0278-first-bad-version](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1709,6 +1710,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1185-find-in-mountain-array) |
 ## Brainteaser
 |  |
