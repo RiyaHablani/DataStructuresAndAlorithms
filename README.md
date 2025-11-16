@@ -1014,6 +1014,7 @@ Youtube leetcode videos code present here
 | [0367-valid-perfect-square](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1117,6 +1118,7 @@ Youtube leetcode videos code present here
 | [0326-power-of-three](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0368-largest-divisible-subset) |
+| [0400-nth-digit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0441-arranging-coins) |
 | [0826-soup-servings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0900-reordered-power-of-2) |
