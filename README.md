@@ -469,6 +469,7 @@ Youtube leetcode videos code present here
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0692-top-k-frequent-words) |
@@ -718,6 +719,7 @@ Youtube leetcode videos code present here
 | [0416-partition-equal-subset-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
@@ -975,6 +977,7 @@ Youtube leetcode videos code present here
 | [0287-find-the-duplicate-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0475-heaters) |
 | [0868-push-dominoes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
@@ -1016,6 +1019,7 @@ Youtube leetcode videos code present here
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
