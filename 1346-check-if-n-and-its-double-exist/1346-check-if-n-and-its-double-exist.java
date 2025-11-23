@@ -31,9 +31,7 @@ class Solution {
 
                 // Even if mid == skipIndex, check neighbors in case
                 // of duplicates (example: [0,0] => 0 == 2*0)
-                if (mid + 1 < arr.length && arr[mid + 1] == target) return true;
-                if (mid - 1 >= 0 && arr[mid - 1] == target) return true;
-
+               
                 return false;
             }
 
