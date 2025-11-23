@@ -1,27 +1,32 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        List<Integer> list = new ArrayList<>();
-        List<Integer> res = new ArrayList<>();
-        
-        // Add elements of nums1 to list
-        for (int i = 0; i < nums1.length; i++) {
-            list.add(nums1[i]);
-        }
-        
-        // Find intersection elements
-        for (int i = 0; i < nums2.length; i++) {
-            if (list.contains(nums2[i])) {
-                res.add(nums2[i]);
-                list.remove(Integer.valueOf(nums2[i])); // Remove to handle duplicates correctly
+        Arrays.sort(nums1);
+        ArrayList<Integer> list = new ArrayList<>();
+        boolean[] used = new boolean[nums1.length];
+
+        for (int num : nums2) {
+            int left = 0;
+            int right = nums1.length - 1;
+
+            while (left <= right) {
+                int mid = left + (right - left) / 2;
+                if (nums1[mid] < num) left = mid + 1;
+                else right = mid - 1;
+            }
+
+            // Minimal fix: move forward from 'left' to find the next unused match (if any)
+            int pos = left;
+            while (pos < nums1.length && nums1[pos] == num && used[pos]) pos++;
+
+            if (pos < nums1.length && nums1[pos] == num) {
+                used[pos] = true;
+                list.add(num);
             }
         }
-        
-        // Convert List<Integer> to int[]
-        int[] result = new int[res.size()];
-        for (int i = 0; i < res.size(); i++) {
-            result[i] = res.get(i);
-        }
-        
-        return result;
+
+        int[] ans = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) ans[i] = list.get(i);
+
+        return ans;
     }
 }
