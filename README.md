@@ -476,6 +476,7 @@ Youtube leetcode videos code present here
 | [0692-top-k-frequent-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0888-fair-candy-swap) |
 | [0900-reordered-power-of-2](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0900-reordered-power-of-2) |
 | [0974-reorder-data-in-log-files](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0974-reorder-data-in-log-files) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
@@ -747,6 +748,7 @@ Youtube leetcode videos code present here
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0888-fair-candy-swap) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -910,6 +912,7 @@ Youtube leetcode videos code present here
 | [0692-top-k-frequent-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0837-most-common-word) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0888-fair-candy-swap) |
 | [0900-reordered-power-of-2](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1034,6 +1037,7 @@ Youtube leetcode videos code present here
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0888-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1185-find-in-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
