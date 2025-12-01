@@ -475,6 +475,7 @@ Youtube leetcode videos code present here
 | [0594-longest-harmonious-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0825-friends-of-appropriate-ages](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0888-fair-candy-swap](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0888-fair-candy-swap) |
 | [0900-reordered-power-of-2](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0900-reordered-power-of-2) |
@@ -747,6 +748,7 @@ Youtube leetcode videos code present here
 | [0747-min-cost-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0792-binary-search) |
+| [0825-friends-of-appropriate-ages](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0825-friends-of-appropriate-ages) |
 | [0837-most-common-word](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0837-most-common-word) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
@@ -994,6 +996,7 @@ Youtube leetcode videos code present here
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0475-heaters) |
+| [0825-friends-of-appropriate-ages](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0825-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
@@ -1044,6 +1047,7 @@ Youtube leetcode videos code present here
 | [0729-my-calendar-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0792-binary-search) |
+| [0825-friends-of-appropriate-ages](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0825-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0888-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
