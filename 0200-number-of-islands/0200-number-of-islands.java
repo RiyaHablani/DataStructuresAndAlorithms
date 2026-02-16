@@ -1,24 +1,32 @@
 class Solution {
+    int rows;
+    int cols;
+
     public int numIslands(char[][] grid) {
-        int count=0;
-        for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[i].length;j++){
-                if(grid[i][j]=='1'){
-                    count++;
-                    callDFS(grid,i,j);
+        rows=grid.length;
+        cols=grid[0].length;
+        int island=0;
+        boolean[][] visited=new boolean[rows][cols];
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                if(grid[i][j]=='1' && !visited[i][j]){
+                    dfs(i,j,grid,visited);
+                    island++;
                 }
             }
         }
-        return count;
+        return island;
     }
-    public void callDFS(char[][] grid,int i,int j){
-            if(i<0 || j<0 || i>=grid.length || j>=grid[i].length || grid[i][j]=='0'){
-                return;
-            }
-            grid[i][j]='0';
-            callDFS(grid,i,j+1);//right
-            callDFS(grid,i,j-1);//left
-            callDFS(grid,i+1,j);//up
-            callDFS(grid,i-1,j);//down
+    public void dfs(int row,int col,char[][] grid,boolean[][] visited){
+        // out of bound case
+        if (row < 0 || row >= rows || col < 0 || col >= cols ||
+            visited[row][col] || grid[row][col] =='0') {
+            return;
+        }
+        visited[row][col]=true;
+        int adjList[][] = {{row-1,col},{row,col+1},{row+1,col},{row,col-1}};
+        for (int neighbour[] : adjList) {
+            dfs(neighbour[0], neighbour[1], grid, visited);
+        }
     }
 }
