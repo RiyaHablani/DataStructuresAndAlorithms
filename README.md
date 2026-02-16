@@ -1809,4 +1809,8 @@ Youtube leetcode videos code present here
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2285-maximum-total-importance-of-roads) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
