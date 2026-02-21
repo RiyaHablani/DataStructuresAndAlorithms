@@ -770,6 +770,7 @@ Youtube leetcode videos code present here
 | [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0974-reorder-data-in-log-files) |
 | [0978-valid-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0978-valid-mountain-array) |
+| [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1027-longest-arithmetic-subsequence) |
@@ -935,6 +936,7 @@ Youtube leetcode videos code present here
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0981-time-based-key-value-store) |
+| [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1027-longest-arithmetic-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1160-letter-tile-possibilities) |
@@ -1810,6 +1812,7 @@ Youtube leetcode videos code present here
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2285-maximum-total-importance-of-roads) |
 ## Union-Find
