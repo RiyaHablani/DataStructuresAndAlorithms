@@ -576,6 +576,7 @@ Youtube leetcode videos code present here
 | [0572-subtree-of-another-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0820-find-eventual-safe-states) |
@@ -613,6 +614,7 @@ Youtube leetcode videos code present here
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
@@ -1812,6 +1814,7 @@ Youtube leetcode videos code present here
 ## Graph Theory
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
 | [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2285-maximum-total-importance-of-roads) |
@@ -1819,4 +1822,5 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
+| [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
 <!---LeetCode Topics End-->
