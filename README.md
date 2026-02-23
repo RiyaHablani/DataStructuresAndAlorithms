@@ -591,6 +591,7 @@ Youtube leetcode videos code present here
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1558-course-schedule-iv) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -630,6 +631,7 @@ Youtube leetcode videos code present here
 | [1558-course-schedule-iv](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1558-course-schedule-iv) |
 | [1731-even-odd-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1731-even-odd-tree) |
 | [1876-map-of-highest-peak](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1876-map-of-highest-peak) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1822,10 +1824,12 @@ Youtube leetcode videos code present here
 | [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
 | [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2285-maximum-total-importance-of-roads) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
 | [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
