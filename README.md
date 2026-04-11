@@ -1357,6 +1357,7 @@ Youtube leetcode videos code present here
 | [0338-counting-bits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2478-longest-nice-subarray) |
