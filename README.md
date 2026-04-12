@@ -791,6 +791,7 @@ Youtube leetcode videos code present here
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1072-next-greater-node-in-linked-list) |
+| [1095-find-in-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-find-in-mountain-array) |
 | [1127-last-stone-weight](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1185-find-in-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1293-three-consecutive-odds) |
@@ -1078,6 +1079,7 @@ Youtube leetcode videos code present here
 | [0981-time-based-key-value-store](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0981-time-based-key-value-store) |
 | [1027-longest-arithmetic-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-find-in-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1185-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -1805,6 +1807,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0278-first-bad-version](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1095-find-in-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1185-find-in-mountain-array) |
 ## Brainteaser
 |  |
