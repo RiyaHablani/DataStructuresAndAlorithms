@@ -1,16 +1,15 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first=Occurence(nums,target,true);
-        int last=Occurence(nums,target,false);
         int res[]=new int[2];
+        int first=binarySearch(nums,target,true);
+        int end=binarySearch(nums,target,false);
         res[0]=first;
-        res[1]=last;
+        res[1]=end;
         return res;
-    }
-    public static int Occurence(int[] nums,int target,boolean isFirst){
-        int ans=-1;
+    }public int binarySearch(int[] nums,int target,boolean isFirst){
         int start=0;
         int end=nums.length-1;
+        int ans=-1;
         while(start<=end){
             int mid=start+(end-start)/2;
             if(nums[mid]==target){
@@ -21,7 +20,7 @@ class Solution {
                     start=mid+1;
                 }
             }else if(nums[mid]<target){
-                start=mid+1;
+                start=mid+=1;
             }else{
                 end=mid-1;
             }
