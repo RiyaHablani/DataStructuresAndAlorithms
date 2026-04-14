@@ -1,13 +1,20 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        int low=0,high=matrix[0].length-1;
-        if(low<0 || high<0 || low>=matrix.length || high>=matrix[low].length || matrix==null){
-                return false;
+        if(matrix.length==0){
+            return false;
         }
-        while(low<=matrix.length-1 && high>=0){
-            if(matrix[low][high]==target) return true;
-            else if(matrix[low][high]<target) low++;
-            else high--;
+        int Rows=matrix.length;
+        int Cols=matrix[0].length;
+        int r=0;
+        int c=Cols-1;
+        while(r<Rows && c>=0){
+            if(matrix[r][c]==target){
+                return true;
+            }else if(target<matrix[r][c]){
+                c=c-1;
+            }else{
+                r=r+1;
+            }
         }
         return false;
     }
