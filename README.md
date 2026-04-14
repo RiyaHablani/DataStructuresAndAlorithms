@@ -767,6 +767,7 @@ Youtube leetcode videos code present here
 | [0837-most-common-word](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0837-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0867-transpose-matrix) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0888-fair-candy-swap) |
@@ -1134,6 +1135,7 @@ Youtube leetcode videos code present here
 | [0067-add-binary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0867-transpose-matrix) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1258,6 +1260,7 @@ Youtube leetcode videos code present here
 | [0733-flood-fill](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0741-cherry-pickup) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0867-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
