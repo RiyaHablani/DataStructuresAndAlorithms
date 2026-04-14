@@ -688,6 +688,7 @@ Youtube leetcode videos code present here
 | [0055-jump-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0073-set-matrix-zeroes) |
@@ -1132,6 +1133,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
@@ -1249,6 +1251,7 @@ Youtube leetcode videos code present here
 | [0037-sudoku-solver](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0073-set-matrix-zeroes) |
