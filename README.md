@@ -920,6 +920,7 @@ Youtube leetcode videos code present here
 | [0013-roman-to-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0138-copy-list-with-random-pointer) |
@@ -1423,6 +1424,7 @@ Youtube leetcode videos code present here
 | [0038-count-and-say](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
@@ -1533,6 +1535,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
