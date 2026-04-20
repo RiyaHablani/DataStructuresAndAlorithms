@@ -1,26 +1,30 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-         if (nums == null || nums.length == 0 || k <= 0) return new int[0];
-
-        int n = nums.length;
-        int[] result = new int[n - k + 1];
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[0] - a[0]); // Max heap
-
-        for (int i = 0; i < n; i++) {
-            // Add the current element to the heap
-            pq.offer(new int[]{nums[i], i});
-
-            // Remove elements not in the sliding window
-            while (pq.peek()[1] <= i - k) {
-                pq.poll();
-            }
-
-            // The first valid maximum element for the sliding window of size k
-            if (i >= k - 1) {
-                result[i - k + 1] = pq.peek()[0];
-            }
+        int n=nums.length;
+        int res[]=new int[n-k+1];
+        if(n==0){
+            return res;
         }
-
-        return result;
+        Deque<Integer> deque=new ArrayDeque<Integer>();
+        int index=0;
+        while(index<k){
+            while(!deque.isEmpty() && nums[deque.peekLast()]<=nums[index]){
+                deque.pollLast();
+            }
+            deque.offerLast(index);
+            index++;
+        }
+        res[0]=nums[deque.peekFirst()];
+        for(int i=1;i<n-k+1;i++){
+            if(!deque.isEmpty() && deque.peekFirst()<=(i-1)){
+                deque.pollFirst();
+            }
+            while(!deque.isEmpty() && nums[deque.peekLast()]<=nums[i+k-1]){
+                deque.pollLast();
+            }
+            deque.offerLast(i+k-1);
+            res[i]=nums[deque.peekFirst()];
+        }
+        return res;
     }
 }
