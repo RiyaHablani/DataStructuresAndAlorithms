@@ -426,6 +426,7 @@ Youtube leetcode videos code present here
 | [2689-rearranging-fruits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2938-separate-black-and-white-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2938-separate-black-and-white-balls) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1042,6 +1043,7 @@ Youtube leetcode videos code present here
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2938-separate-black-and-white-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2938-separate-black-and-white-balls) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
@@ -1484,6 +1486,7 @@ Youtube leetcode videos code present here
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
+| [2938-separate-black-and-white-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2938-separate-black-and-white-balls) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3194-find-words-containing-character) |
