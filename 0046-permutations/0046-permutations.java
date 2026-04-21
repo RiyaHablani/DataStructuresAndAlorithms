@@ -1,29 +1,21 @@
 class Solution {
-     private void recurPermute(int index, int[] nums, List<List<Integer>> ans) {
-        if (index == nums.length) {
-            List<Integer> ds = new ArrayList<>();
-            for (int i = 0; i < nums.length; i++) {
-                ds.add(nums[i]);
-            }
-            ans.add(new ArrayList<>(ds));
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> res=new ArrayList<>();
+        List<Integer> current=new ArrayList<>();
+        permutations(nums,current,res);
+        return res;
+    }
+    private void permutations(int nums[],List<Integer> current,List<List<Integer>> res){
+        //base case
+        if(current.size()==nums.length){
+            res.add(new ArrayList<>(current));
             return;
         }
-        for (int i = index; i < nums.length; i++) {
-            swap(i, index, nums);
-            recurPermute(index + 1, nums, ans);
-            swap(i, index, nums);
+        for(int i=0;i<nums.length;i++){
+            if(current.contains(nums[i])) continue;
+            current.add(nums[i]);
+            permutations(nums,current,res);
+            current.remove(current.size()-1);
         }
     }
-
-    private void swap(int i, int j, int[] nums) {
-        int t = nums[i];
-        nums[i] = nums[j];
-        nums[j] = t;
-    }
-
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        recurPermute(0, nums, ans);
-        return ans;
-  }
 }
