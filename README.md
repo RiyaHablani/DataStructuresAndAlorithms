@@ -768,6 +768,7 @@ Youtube leetcode videos code present here
 | [0741-cherry-pickup](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0792-binary-search) |
@@ -1334,6 +1335,7 @@ Youtube leetcode videos code present here
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0741-cherry-pickup](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0826-soup-servings) |
