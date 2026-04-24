@@ -992,6 +992,7 @@ Youtube leetcode videos code present here
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1506,6 +1507,7 @@ Youtube leetcode videos code present here
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
 | [2938-separate-black-and-white-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2938-separate-black-and-white-balls) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1581,6 +1583,7 @@ Youtube leetcode videos code present here
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
