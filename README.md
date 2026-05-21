@@ -495,6 +495,7 @@ Youtube leetcode videos code present here
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2215-finding-3-digit-even-numbers) |
@@ -539,6 +540,7 @@ Youtube leetcode videos code present here
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1917-maximum-average-pass-ratio) |
+| [2054-two-best-non-overlapping-events](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2285-maximum-total-importance-of-roads) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
@@ -839,6 +841,7 @@ Youtube leetcode videos code present here
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1106,6 +1109,7 @@ Youtube leetcode videos code present here
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1356,6 +1360,7 @@ Youtube leetcode videos code present here
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2562-count-ways-to-build-good-strings) |
