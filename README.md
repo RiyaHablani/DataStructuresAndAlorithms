@@ -492,6 +492,7 @@ Youtube leetcode videos code present here
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
@@ -825,6 +826,7 @@ Youtube leetcode videos code present here
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1055,6 +1057,7 @@ Youtube leetcode videos code present here
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1116,6 +1119,7 @@ Youtube leetcode videos code present here
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2054-two-best-non-overlapping-events) |
@@ -1713,6 +1717,7 @@ Youtube leetcode videos code present here
 | [0966-binary-subarrays-with-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
