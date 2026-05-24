@@ -419,6 +419,7 @@ Youtube leetcode videos code present here
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2285-maximum-total-importance-of-roads) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -505,6 +506,7 @@ Youtube leetcode videos code present here
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2215-finding-3-digit-even-numbers) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2285-maximum-total-importance-of-roads) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2379-maximum-total-importance-of-roads) |
@@ -873,6 +875,7 @@ Youtube leetcode videos code present here
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2308-divide-array-into-equal-pairs) |
