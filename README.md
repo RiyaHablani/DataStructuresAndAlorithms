@@ -411,6 +411,7 @@ Youtube leetcode videos code present here
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1710-maximum-units-on-a-truck](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [1792-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1792-maximum-average-pass-ratio) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1917-maximum-average-pass-ratio) |
@@ -496,6 +497,7 @@ Youtube leetcode videos code present here
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -838,6 +840,7 @@ Youtube leetcode videos code present here
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1656-count-good-triplets) |
+| [1710-maximum-units-on-a-truck](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1792-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1792-maximum-average-pass-ratio) |
