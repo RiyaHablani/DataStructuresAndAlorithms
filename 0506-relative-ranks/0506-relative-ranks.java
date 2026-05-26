@@ -1,40 +1,32 @@
 class Solution {
     public String[] findRelativeRanks(int[] score) {
-        
-        int n = score.length; // Length of the score array
-        int maxScore = 0;
-        
-        // Find the highest score
-        for (int i = 0; i < n; i++) {
-            maxScore = Math.max(maxScore, score[i]);
+        int n=score.length;
+        int max=Integer.MIN_VALUE;
+        for(int i=0;i<n;i++){
+            max=Math.max(max,score[i]);
         }
-        
-        // Create an array to map scores to their index in the result
-        int[] score2Index = new int[maxScore + 1];
-        
-        // Store each score's index (1-based)
-        for (int i = 0; i < n; i++) {
-            score2Index[score[i]] = i + 1;
+        int arr[]=new int[max+1];
+        for(int i=0;i<n;i++){
+            arr[score[i]]=i+1;
         }
-        
-        String[] ans = new String[n]; // Array to store the results
-        int place = 1; // Ranking starts from 1
-        
-        // Start from the highest score and assign ranks
-        for (int i = maxScore; i >= 0; i--) {
-            if (score2Index[i] == 0) continue; // Skip if the score doesn't exist
-            
-            int index = score2Index[i] - 1; // Get original index of the score
-            
-            // Assign medals or ranks based on place
-            if (place == 1) ans[index] = "Gold Medal";
-            else if (place == 2) ans[index] = "Silver Medal";
-            else if (place == 3) ans[index] = "Bronze Medal";
-            else ans[index] = String.valueOf(place);
-            
-            place++; // Move to the next rank
+        String res[]=new String[n];
+        int rank=1;
+        for(int i=max;i>=0;i--){
+            if(arr[i]!=0){
+            int originalIndex=arr[i]-1;
+            if(rank==1){
+                res[originalIndex]="Gold Medal";
+            }else if(rank==2){
+                res[originalIndex]="Silver Medal";
+            }else if(rank==3){
+                res[originalIndex]="Bronze Medal";
+            }else{
+                res[originalIndex]=Integer.toString(rank);
+            }
+            rank++;
+            }
+            if(rank>n) break;
         }
-        
-        return ans; // Return the array with ranks
+        return res;
     }
 }
