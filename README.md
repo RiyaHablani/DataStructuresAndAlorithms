@@ -810,6 +810,7 @@ Youtube leetcode videos code present here
 | [0974-reorder-data-in-log-files](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0974-reorder-data-in-log-files) |
 | [0978-valid-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0978-valid-mountain-array) |
 | [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1027-longest-arithmetic-subsequence) |
@@ -990,6 +991,7 @@ Youtube leetcode videos code present here
 | [0966-binary-subarrays-with-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1002-find-common-characters) |
 | [1027-longest-arithmetic-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1027-longest-arithmetic-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1160-letter-tile-possibilities) |
@@ -1511,6 +1513,7 @@ Youtube leetcode videos code present here
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0974-reorder-data-in-log-files) |
 | [0981-time-based-key-value-store](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0981-time-based-key-value-store) |
+| [1002-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1002-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
