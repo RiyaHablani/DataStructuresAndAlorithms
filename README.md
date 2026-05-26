@@ -1543,6 +1543,7 @@ Youtube leetcode videos code present here
 | [2938-separate-black-and-white-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2938-separate-black-and-white-balls) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3110-score-of-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
