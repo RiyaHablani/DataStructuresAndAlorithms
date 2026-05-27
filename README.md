@@ -905,6 +905,7 @@ Youtube leetcode videos code present here
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2665-minimum-time-to-repair-cars) |
+| [2678-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2678-number-of-senior-citizens) |
 | [2681-put-marbles-in-bags](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2690-house-robber-iv) |
@@ -1548,6 +1549,7 @@ Youtube leetcode videos code present here
 | [2317-count-collisions-on-a-road](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2317-count-collisions-on-a-road) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2678-number-of-senior-citizens) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
 | [2938-separate-black-and-white-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2938-separate-black-and-white-balls) |
