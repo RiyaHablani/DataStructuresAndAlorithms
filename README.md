@@ -1244,6 +1244,7 @@ Youtube leetcode videos code present here
 | [0400-nth-digit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0509-fibonacci-number) |
+| [0564-find-the-closest-palindrome](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0592-fraction-addition-and-subtraction) |
 | [0826-soup-servings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0900-reordered-power-of-2) |
@@ -1509,6 +1510,7 @@ Youtube leetcode videos code present here
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0482-license-key-formatting) |
 | [0551-student-attendance-record-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0551-student-attendance-record-i) |
+| [0564-find-the-closest-palindrome](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0592-fraction-addition-and-subtraction) |
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0657-robot-return-to-origin) |
