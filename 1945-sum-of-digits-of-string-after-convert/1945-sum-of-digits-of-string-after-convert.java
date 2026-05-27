@@ -1,20 +1,25 @@
 class Solution {
     public int getLucky(String s, int k) {
+        int sum1=0;
         StringBuilder sb = new StringBuilder();
-        // convert characters to numbers
-        for (int i = 0; i < s.length(); i++) {
-            int val = s.charAt(i) - 'a' + 1;
-            sb.append(val);
+        for (char ch:s.toCharArray()) {
+            int num=ch-96;
+            while(num>0){
+                sum1+=(num%10);
+                num/=10;
+            }
         }
+        sb.append(sum1);
         String str = sb.toString();
         // perform k transformations
-        while (k-- > 0) {
+        while (k > 1) {
             int sum = 0;
-            for (int i = 0; i < str.length(); i++) {
-                sum += str.charAt(i) - '0';
+            for (int i = 0; i < sb.length(); i++) {
+                sum += sb.charAt(i) - '0';
             }
-            str = String.valueOf(sum);
+            k--;
+            sb=new StringBuilder(String.valueOf(sum));
         }
-        return Integer.parseInt(str);
+        return Integer.parseInt(sb.toString());
     }
 }
