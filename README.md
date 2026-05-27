@@ -1195,6 +1195,7 @@ Youtube leetcode videos code present here
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2195-time-needed-to-buy-tickets) |
@@ -1543,6 +1544,7 @@ Youtube leetcode videos code present here
 | [1818-maximum-score-from-removing-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2079-delete-duplicate-folders-in-system) |
