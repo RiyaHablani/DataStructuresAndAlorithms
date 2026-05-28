@@ -1081,6 +1081,7 @@ Youtube leetcode videos code present here
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1545,6 +1546,7 @@ Youtube leetcode videos code present here
 | [1170-shortest-common-supersequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1752,6 +1754,7 @@ Youtube leetcode videos code present here
 | [0572-subtree-of-another-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0812-rotate-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Prefix Sum
