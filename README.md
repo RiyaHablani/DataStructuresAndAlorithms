@@ -483,6 +483,7 @@ Youtube leetcode videos code present here
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0692-top-k-frequent-words) |
@@ -775,6 +776,7 @@ Youtube leetcode videos code present here
 | [0503-next-greater-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0594-longest-harmonious-subsequence) |
@@ -1245,6 +1247,7 @@ Youtube leetcode videos code present here
 | [0400-nth-digit](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0592-fraction-addition-and-subtraction) |
 | [0826-soup-servings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0826-soup-servings) |
@@ -1510,6 +1513,7 @@ Youtube leetcode videos code present here
 | [0424-longest-repeating-character-replacement](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0482-license-key-formatting) |
+| [0539-minimum-time-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0539-minimum-time-difference) |
 | [0551-student-attendance-record-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0551-student-attendance-record-i) |
 | [0564-find-the-closest-palindrome](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0592-fraction-addition-and-subtraction) |
