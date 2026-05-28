@@ -1032,6 +1032,7 @@ Youtube leetcode videos code present here
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1161,6 +1162,7 @@ Youtube leetcode videos code present here
 | [2699-count-the-number-of-fair-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3427-special-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3790-fruits-into-baskets-ii) |
@@ -1483,6 +1485,7 @@ Youtube leetcode videos code present here
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1575,6 +1578,7 @@ Youtube leetcode videos code present here
 | [2691-count-vowel-strings-in-ranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2727-number-of-senior-citizens) |
 | [2938-separate-black-and-white-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2938-separate-black-and-white-balls) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3110-score-of-a-string) |
@@ -1655,6 +1659,7 @@ Youtube leetcode videos code present here
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
