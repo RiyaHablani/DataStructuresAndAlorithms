@@ -1197,6 +1197,7 @@ Youtube leetcode videos code present here
 | [0657-robot-return-to-origin](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0867-transpose-matrix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1642-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1303,6 +1304,7 @@ Youtube leetcode videos code present here
 | [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1547,6 +1549,7 @@ Youtube leetcode videos code present here
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1542-consecutive-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
