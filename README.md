@@ -1017,6 +1017,7 @@ Youtube leetcode videos code present here
 | [1500-count-largest-group](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1484,6 +1485,7 @@ Youtube leetcode videos code present here
 | [1400-construct-k-palindrome-strings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1400-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -1567,6 +1569,7 @@ Youtube leetcode videos code present here
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
