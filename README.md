@@ -1037,6 +1037,7 @@ Youtube leetcode videos code present here
 | [2888-minimum-index-of-a-valid-split](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1490,6 +1491,7 @@ Youtube leetcode videos code present here
 | [2308-divide-array-into-equal-pairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1591,6 +1593,7 @@ Youtube leetcode videos code present here
 | [3110-score-of-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3110-score-of-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3194-find-words-containing-character) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3447-clear-digits) |
