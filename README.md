@@ -1568,6 +1568,7 @@ Youtube leetcode videos code present here
 | [1542-consecutive-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1542-consecutive-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1707,6 +1708,7 @@ Youtube leetcode videos code present here
 | [1072-next-greater-node-in-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
