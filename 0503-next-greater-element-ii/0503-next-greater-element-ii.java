@@ -1,24 +1,21 @@
 class Solution {
-    public int[] nextGreaterElements(int[] nums) {
-        int n = nums.length;
-        int[] result = new int[n];
-        Stack<Integer> stack = new Stack<>();
-
-        // Initialize the result array with -1 (default for no greater element)
-        for (int i = 0; i < n; i++) {
-            result[i] = -1;
-        }
-
-        // Traverse the array twice to simulate the circular behavior
-        for (int i = 0; i < 2 * n; i++) {
-            while (!stack.isEmpty() && nums[stack.peek()] < nums[i % n]) {
-                result[stack.pop()] = nums[i % n]; // Assign next greater element
+    public int[] nextGreaterElements(int[] arr) {
+        Stack<Integer> stack=new Stack<>();
+        int n=arr.length;
+        int res[]=new int[n];
+        for(int i=2*n-1;i>=0;i--){
+            while(!stack.isEmpty() && stack.peek()<=arr[i%n]){
+                stack.pop();
             }
-            if (i < n) {
-                stack.push(i); // Push only first-pass indices
+            if(i<n){
+                if(stack.isEmpty()){
+                    res[i]=-1;
+                }else{
+                    res[i]=stack.peek();
+                }
             }
+            stack.push(arr[i%n]);
         }
-
-        return result;
+        return res;
     }
 }
