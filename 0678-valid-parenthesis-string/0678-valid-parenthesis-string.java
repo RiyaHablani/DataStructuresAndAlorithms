@@ -19,12 +19,11 @@ class Solution {
             }
         }
         while(!stack1.isEmpty() && !stack2.isEmpty()){
-            if(stack2.isEmpty()){
+            if(stack1.peek() > stack2.peek()) {
                 return false;
             }
-            if(stack1.pop()>stack2.pop()){
-                return false;
-            }
+            stack1.pop();
+            stack2.pop();
         }
         return stack1.isEmpty();
     }
