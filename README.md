@@ -812,6 +812,7 @@ Youtube leetcode videos code present here
 | [0934-bitwise-ors-of-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-valid-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0941-valid-mountain-array) |
 | [0945-snakes-and-ladders](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0945-snakes-and-ladders) |
+| [0962-maximum-width-ramp](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0974-reorder-data-in-log-files) |
@@ -1088,6 +1089,7 @@ Youtube leetcode videos code present here
 | [0825-friends-of-appropriate-ages](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0825-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
+| [0962-maximum-width-ramp](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0962-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1715,6 +1717,7 @@ Youtube leetcode videos code present here
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0962-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1742,6 +1745,7 @@ Youtube leetcode videos code present here
 | [0496-next-greater-element-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0962-maximum-width-ramp](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0962-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
