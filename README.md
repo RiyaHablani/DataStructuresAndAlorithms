@@ -931,6 +931,7 @@ Youtube leetcode videos code present here
 | [2888-minimum-index-of-a-valid-split](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3001-apply-operations-to-maximize-score) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1609,6 +1610,7 @@ Youtube leetcode videos code present here
 | [2938-separate-black-and-white-balls](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2938-separate-black-and-white-balls) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3110-score-of-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1802,6 +1804,7 @@ Youtube leetcode videos code present here
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1839,6 +1842,7 @@ Youtube leetcode videos code present here
 | [0692-top-k-frequent-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Tree
 |  |
 | ------- |
@@ -1988,6 +1992,7 @@ Youtube leetcode videos code present here
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0572-subtree-of-another-tree) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -2007,4 +2012,8 @@ Youtube leetcode videos code present here
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
 | [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
