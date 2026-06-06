@@ -21,13 +21,17 @@ class Solution {
         }
         Queue<TreeNode> queue=new LinkedList<>();
         queue.offer(root);
-        boolean leftToRight = true;
+        int level=0;
         while(!queue.isEmpty()){
             ArrayList<Integer> list=new ArrayList<>();
             int size=queue.size();
             for(int i=0;i<size;i++){
                 TreeNode node=queue.poll();
-                list.add(node.val);
+                if(level%2!=0){
+                    list.addFirst(node.val);
+                }else{ //even
+                    list.add(node.val);
+                }
                 if(node.left!=null){
                     queue.offer(node.left);
                 }
@@ -35,11 +39,8 @@ class Solution {
                     queue.offer(node.right);
                 }
             }
-            if(leftToRight==false){
-                Collections.reverse(list);
-            }
+            level++;
             res.add(list);
-            leftToRight=!leftToRight;
         }
         return res;
     }
