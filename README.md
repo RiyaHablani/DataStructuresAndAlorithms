@@ -496,6 +496,7 @@ Youtube leetcode videos code present here
 | [0888-fair-candy-swap](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0888-fair-candy-swap) |
 | [0900-reordered-power-of-2](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0900-reordered-power-of-2) |
 | [0974-reorder-data-in-log-files](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0974-reorder-data-in-log-files) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -607,6 +608,7 @@ Youtube leetcode videos code present here
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -648,6 +650,7 @@ Youtube leetcode videos code present here
 | [0820-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0945-snakes-and-ladders) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
@@ -1014,6 +1017,7 @@ Youtube leetcode videos code present here
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0981-time-based-key-value-store) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1002-find-common-characters) |
 | [1027-longest-arithmetic-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1027-longest-arithmetic-subsequence) |
@@ -1884,6 +1888,7 @@ Youtube leetcode videos code present here
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1927,6 +1932,7 @@ Youtube leetcode videos code present here
 | [0572-subtree-of-another-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
