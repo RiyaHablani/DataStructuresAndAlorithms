@@ -21,7 +21,7 @@ class Solution {
         }
         Queue<TreeNode> queue=new LinkedList<>();
         queue.offer(root);
-        int level=0;
+        boolean leftToRight = true;
         while(!queue.isEmpty()){
             ArrayList<Integer> list=new ArrayList<>();
             int size=queue.size();
@@ -35,11 +35,11 @@ class Solution {
                     queue.offer(node.right);
                 }
             }
-            if(level%2!=0){
+            if(leftToRight==false){
                 Collections.reverse(list);
             }
             res.add(list);
-            level++;
+            leftToRight=!leftToRight;
         }
         return res;
     }
