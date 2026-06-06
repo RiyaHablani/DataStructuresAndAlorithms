@@ -35,12 +35,10 @@ class Solution {
                     queue.offer(node.right);
                 }
             }
-            if(level%2==0){
-                res.add(list);
-            }else{
+            if(level%2!=0){
                 Collections.reverse(list);
-                res.add(list);
             }
+            res.add(list);
             level++;
         }
         return res;
