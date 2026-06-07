@@ -14,24 +14,32 @@
  * }
  */
 class Solution {
+    int pos=0;
     public int kthSmallest(TreeNode root, int k) {
-        PriorityQueue<Integer> maxHeap=new PriorityQueue<>(Collections.reverseOrder());
-        Queue<TreeNode> queue=new LinkedList<>();
-        queue.offer(root);
-
-        while(!queue.isEmpty()){
-            int size=queue.size();
-            for(int i=0;i<size;i++){
-                TreeNode currentNode=queue.poll();
-                maxHeap.add(currentNode.val);
-                if(currentNode.left!=null){
-                    queue.add(currentNode.left);
-                }if(currentNode.right!=null){
-                    queue.add(currentNode.right);
-                }
-                if(maxHeap.size()>k) maxHeap.poll();
-            }
+        TreeNode node=inorder(root,k);
+        if(node==null){
+            return -1;
         }
-        return maxHeap.peek();
+        return node.val;
+    }
+    public TreeNode inorder(TreeNode root,int k){
+        if(root==null){
+            return root;
+        }
+        TreeNode left=inorder(root.left,k);
+        if(left!=null){
+            return left;
+        }
+        //print the root
+        pos++;
+        //current node is the target(kth smallest)
+        if(pos==k){
+            return root;
+        }
+        TreeNode right=inorder(root.right,k);
+        if(right!=null){
+            return right;
+        }
+        return null;
     }
 }
