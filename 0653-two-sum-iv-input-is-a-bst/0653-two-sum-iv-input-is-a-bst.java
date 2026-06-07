@@ -14,32 +14,18 @@
  * }
  */
 class Solution {
+    Set<Integer> set = new HashSet<>();
     public boolean findTarget(TreeNode root, int k) {
-        ArrayList<Integer> list=new ArrayList<>();
-        inorderTraversal(root,list);
-        //2,3,4,5,6,7
-        int start=0;
-        int end=list.size()-1;
-        while(start<end){
-            int sum=list.get(start)+list.get(end);
-            if(sum==k){
-                return true;
-            }else if(sum>k){
-                end--;
-            }else{
-                start++;
-            }
-        }
-        return false;
+        return dfs(root,k);
     }
-    public void inorderTraversal(TreeNode root,ArrayList<Integer> list){
+    public boolean dfs(TreeNode root,int k){
         if(root==null){
-            return;
+            return false;
         }
-        //left
-        inorderTraversal(root.left,list);
-        list.add(root.val);
-        //right
-        inorderTraversal(root.right,list);
+        if (set.contains(k - root.val)) {
+            return true;
+        }
+        set.add(root.val);
+        return dfs(root.left, k) || dfs(root.right, k);
     }
 }
