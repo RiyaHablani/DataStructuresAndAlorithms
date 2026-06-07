@@ -32,19 +32,19 @@ class Solution {
                 return root.left;
             }else{
                 // child case
-                // inorder predecessor
-                TreeNode node=InorderPredecessor(root.left);
+                // inorder successor
+                TreeNode node=InorderSuccessor(root.right);
                 //replace root with this node
                 root.val=node.val;
                 //delete the node val;
-                root.left=deleteNode(root.left,node.val);
+                root.right=deleteNode(root.right,node.val);
             }
         }
         return root;
     }
-    public TreeNode InorderPredecessor(TreeNode node){
-        while(node.right!=null){
-            node=node.right;
+    public TreeNode InorderSuccessor(TreeNode node){
+        while(node.left!=null){
+            node=node.left;
         }
         return node;
     }
