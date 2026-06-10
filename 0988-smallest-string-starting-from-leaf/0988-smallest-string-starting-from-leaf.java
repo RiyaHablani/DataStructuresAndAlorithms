@@ -14,26 +14,23 @@
  * }
  */
 class Solution {
-    String smallest = null;
-
+    String smallest = "";
     public String smallestFromLeaf(TreeNode root) {
-        dfs(root, "");
+        dfs(root, new StringBuilder());
         return smallest;
     }
-
-    private void dfs(TreeNode root, String curr) {
+    private void dfs(TreeNode root, StringBuilder sb) {
         if (root == null) return;
-
-        curr = (char)(root.val + 'a') + curr;
-
+        char ch = (char)(root.val + 'a');
+        sb.insert(0, ch);
         if (root.left == null && root.right == null) {
-            if (smallest == null || curr.compareTo(smallest) < 0) {
+            String curr = sb.toString();
+            if (smallest.equals("") || curr.compareTo(smallest) < 0) {
                 smallest = curr;
             }
-            return;
         }
-
-        dfs(root.left, curr);
-        dfs(root.right, curr);
+        dfs(root.left, sb);
+        dfs(root.right, sb);
+        sb.deleteCharAt(0);
     }
 }
