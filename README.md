@@ -613,6 +613,7 @@ Youtube leetcode videos code present here
 | [0820-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1585,6 +1586,7 @@ Youtube leetcode videos code present here
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0974-reorder-data-in-log-files) |
 | [0981-time-based-key-value-store](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0981-time-based-key-value-store) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1002-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1002-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
@@ -1796,6 +1798,7 @@ Youtube leetcode videos code present here
 | [0079-word-search](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0131-palindrome-partitioning) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1160-letter-tile-possibilities](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1909,6 +1912,7 @@ Youtube leetcode videos code present here
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1963,6 +1967,7 @@ Youtube leetcode videos code present here
 | [0701-insert-into-a-binary-search-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
