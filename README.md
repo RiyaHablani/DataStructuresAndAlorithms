@@ -2100,4 +2100,8 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
