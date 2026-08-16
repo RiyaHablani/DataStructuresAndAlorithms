@@ -22,15 +22,12 @@ class Solution {
         Stack<TreeNode> stack=new Stack<>();
         TreeNode node=root;
         while(node!=null || !stack.isEmpty()){
-            //move to left
             while(node!=null){
                 stack.push(node);
                 node=node.left;
             }
-            //print the root;
             node=stack.pop();
             res.add(node.val);
-            //move to right
             node=node.right;
         }
         return res;
