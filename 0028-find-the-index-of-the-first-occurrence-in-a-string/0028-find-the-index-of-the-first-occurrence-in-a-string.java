@@ -3,7 +3,7 @@ class Solution {
         int n=haystack.length();
         int m=needle.length();
         for(int i=0;i<n-m+1;i++){
-            if(haystack.substring(i,i+m).contains(needle)){
+            if(haystack.substring(i,i+m).equals(needle)){
                 return i;
             }
         }
