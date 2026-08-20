@@ -2120,4 +2120,8 @@ Youtube leetcode videos code present here
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0686-repeated-string-match) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
