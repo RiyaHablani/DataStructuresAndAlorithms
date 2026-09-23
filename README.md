@@ -407,6 +407,7 @@ Youtube leetcode videos code present here
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0860-lemonade-change) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -822,6 +823,7 @@ Youtube leetcode videos code present here
 | [0846-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0867-transpose-matrix) |
 | [0876-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0882-peak-index-in-a-mountain-array) |
