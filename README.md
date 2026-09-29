@@ -2104,6 +2104,7 @@ Youtube leetcode videos code present here
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
