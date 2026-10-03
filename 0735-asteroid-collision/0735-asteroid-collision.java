@@ -1,36 +1,30 @@
 class Solution {
-    public int[] asteroidCollision(int[] arr) {
-        Stack<Integer> stack= new Stack<>();
-        int j=0;
-        for(int i=0;i<arr.length;i++){
-            if(stack.isEmpty() || arr[i]>0){
-                stack.push(arr[i]);
-            }
-            else{
-                while (true) {
-                    int prev = stack.peek();
-                    if (prev < 0) {
-                        stack.push(arr[i]);
-                        break;
-                    } else if (prev == -arr[i]) {
-                        stack.pop();
-                        break;
-                    } else if (prev > -arr[i]) {
-                        break;
-                    } else {
-                        stack.pop();
-                        if (stack.isEmpty()) {
-                            stack.push(arr[i]);
-                            break;
-                        }
-                    }
+    public int[] asteroidCollision(int[] asteroids) {
+        Stack<Integer> stack = new Stack<>();
+        for (int i = 0; i < asteroids.length; i++) {
+            while (!stack.isEmpty() && stack.peek() > 0 && asteroids[i] < 0) {
+                int prev = stack.peek();
+                if (Math.abs(prev) < Math.abs(asteroids[i])) {
+                    stack.pop(); // prev destroyed
+                } 
+                else if (Math.abs(prev) == Math.abs(asteroids[i])) {
+                    stack.pop(); // both destroyed
+                    asteroids[i] = 0;
+                    break;
+                } 
+                else {
+                    asteroids[i] = 0; // current destroyed
+                    break;
                 }
             }
+            if (asteroids[i] != 0) {
+                stack.push(asteroids[i]);
+            }
         }
-        int[] result = new int[stack.size()];
-        for (int i = result.length - 1; i >= 0; i--) {
-            result[i] = stack.pop();
+        int[] arr = new int[stack.size()];
+        for (int i = arr.length - 1; i >= 0; i--) {
+            arr[i] = stack.pop();
         }
-        return result;
+        return arr;
     }
 }
