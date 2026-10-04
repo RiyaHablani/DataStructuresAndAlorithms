@@ -1,30 +1,29 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        int n=nums.length;
-        int res[]=new int[n-k+1];
-        if(n==0){
-            return res;
-        }
-        Deque<Integer> deque=new ArrayDeque<Integer>();
-        int index=0;
-        while(index<k){
-            while(!deque.isEmpty() && nums[deque.peekLast()]<=nums[index]){
-                deque.pollLast();
-            }
-            deque.offerLast(index);
-            index++;
-        }
-        res[0]=nums[deque.peekFirst()];
-        for(int i=1;i<n-k+1;i++){
-            if(!deque.isEmpty() && deque.peekFirst()<=(i-1)){
+        // Store indices of useful elements
+        // The largest element will be at the front
+        Deque<Integer> deque = new LinkedList<>();
+        int[] ans = new int[nums.length - k + 1];
+        int index = 0;
+        for (int i = 0; i < nums.length; i++) {
+            // Remove elements which are outside the window
+            if (!deque.isEmpty() && deque.peekFirst() <= i - k) {
                 deque.pollFirst();
             }
-            while(!deque.isEmpty() && nums[deque.peekLast()]<=nums[i+k-1]){
+            // Remove smaller elements from the back
+            // because current element is bigger
+            while (!deque.isEmpty() &&
+                   nums[deque.peekLast()] <= nums[i]) {
                 deque.pollLast();
             }
-            deque.offerLast(i+k-1);
-            res[i]=nums[deque.peekFirst()];
+            // Add current index
+            deque.addLast(i);
+            // Window is ready when i >= k - 1
+            if (i >= k - 1) {
+                ans[index] = nums[deque.peekFirst()];
+                index++;
+            }
         }
-        return res;
+        return ans;
     }
 }
