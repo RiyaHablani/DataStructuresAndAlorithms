@@ -2117,6 +2117,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
@@ -2160,4 +2161,8 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
