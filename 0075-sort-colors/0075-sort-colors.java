@@ -9,16 +9,16 @@ class Solution {
                 low++;
                 mid++;
             }else if(nums[mid]==2){
-                swap(nums,mid,high);
+                swap(nums,high,mid);
                 high--;
             }else{
                 mid++;
-            }
-        }
+           }
+       }
     }
-    public void swap(int nums[],int i,int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
+    public void swap(int nums[],int left,int right){
+        int temp=nums[left];
+        nums[left]=nums[right];
+        nums[right]=temp;
     }
 }
