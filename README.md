@@ -1603,6 +1603,7 @@ Youtube leetcode videos code present here
 | [0981-time-based-key-value-store](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0981-time-based-key-value-store) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1002-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1768,6 +1769,7 @@ Youtube leetcode videos code present here
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0962-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -2123,6 +2125,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Z Algorithm
 |  |
 | ------- |
