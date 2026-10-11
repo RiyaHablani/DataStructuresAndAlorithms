@@ -26,6 +26,7 @@ class Solution {
         }
         boolean leftSubTree=validate(root.left,min,root.val);
         boolean rightSubTree=validate(root.right,root.val,max);
+
         return leftSubTree && rightSubTree;
     }
 }
