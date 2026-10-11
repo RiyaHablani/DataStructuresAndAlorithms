@@ -24,15 +24,13 @@ class Solution {
     }
     public TreeNode inorder(TreeNode root,int k){
         if(root==null){
-            return root;
+            return null;
         }
         TreeNode left=inorder(root.left,k);
         if(left!=null){
             return left;
         }
-        //print the root
         pos++;
-        //current node is the target(kth smallest)
         if(pos==k){
             return root;
         }
