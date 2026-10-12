@@ -8,13 +8,12 @@ class Solution {
             }else{
                 if(stack.isEmpty()){
                     return false;
-                }else if(stack.peek()=='[' && ch==']'){
-                    stack.pop();
-                }else if(stack.peek()=='(' && ch==')'){
-                    stack.pop();
-                }else if(stack.peek()=='{' && ch=='}'){
-                    stack.pop();
-                }else{
+                }
+                char top = stack.pop();
+
+                if ((ch == ')' && top != '(') ||
+                    (ch == ']' && top != '[') ||
+                    (ch == '}' && top != '{')) {
                     return false;
                 }
             }
