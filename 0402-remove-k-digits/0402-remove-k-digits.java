@@ -3,7 +3,7 @@ class Solution {
         Stack<Character> stack=new Stack<>();
         for(int i=0;i<num.length();i++){
             char ch=num.charAt(i);
-            while(!stack.isEmpty() && k>0 && ch<stack.peek()){
+            while(!stack.isEmpty() && stack.peek()>ch && k>0){
                 stack.pop();
                 k--;
             }
@@ -14,7 +14,8 @@ class Solution {
             if(k>0){
                 stack.pop();
                 k--;
-            }else{
+            }
+            else{
                 sb.insert(0,stack.pop());
             }
         }
