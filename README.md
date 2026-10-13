@@ -2169,6 +2169,7 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0229-majority-element-ii) |
 ## Bubble Sort
 |  |
 | ------- |
