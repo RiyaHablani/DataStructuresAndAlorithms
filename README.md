@@ -2175,4 +2175,8 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0075-sort-colors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
