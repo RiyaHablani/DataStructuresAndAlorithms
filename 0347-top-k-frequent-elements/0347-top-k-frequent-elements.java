@@ -6,13 +6,13 @@ class Number implements Comparable<Number>{
         this.freq=freq;
     }
     public int compareTo(Number that){
-        return this.freq-that.freq;//inc order;
+        return this.freq-that.freq;
     }
 }
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        PriorityQueue<Number> pq=new PriorityQueue<>();
         HashMap<Integer,Integer> map=new HashMap<>();
+        PriorityQueue<Number> pq=new PriorityQueue<>();
         for(int i=0;i<nums.length;i++){
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
@@ -23,12 +23,10 @@ class Solution {
                 pq.poll();
             }
         }
-        int res[]=new int[k];
-        int index=0;
-        while(pq.size()>0){
+        int res[]=new int[pq.size()];
+        for(int i=0;i<res.length;i++){
             Number number=pq.poll();
-            res[index]=number.element;
-            index++;
+            res[i]=number.element;
         }
         return res;
     }
