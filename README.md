@@ -1130,6 +1130,7 @@ Youtube leetcode videos code present here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0825-friends-of-appropriate-ages](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0825-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0868-push-dominoes) |
+| [0876-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0962-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
@@ -1241,6 +1242,7 @@ Youtube leetcode videos code present here
 | [0234-palindrome-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
