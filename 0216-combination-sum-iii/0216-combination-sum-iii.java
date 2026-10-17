@@ -1,23 +1,23 @@
 class Solution {
-    public List<List<Integer>> combinationSum3(int k, int target) {
-        List<List<Integer>> result = new ArrayList<>();
-        List<Integer> current = new ArrayList<>();
-        combinationSumHelper(1, current, result, target,k);
-        return result;
+    public List<List<Integer>> combinationSum3(int k, int n) {
+        List<List<Integer>> res=new ArrayList<>();
+        List<Integer> list=new ArrayList<>();
+        backtrack(res,list,1,k,n,0);
+        return res;
     }
-
-    private void combinationSumHelper(int index, List<Integer> current, List<List<Integer>> result, int target,int k) {
-        if (current.size() == k && target == 0) {
-            result.add(new ArrayList<>(current)); // Found a valid combination
+    public void backtrack(List<List<Integer>> res,List<Integer> list,int index,int k,int n,int sum){
+        if (list.size() == k) {
+            if (sum == n) {
+                res.add(new ArrayList<>(list));
+            }
             return;
         }
-         if (current.size() > k || target < 0) return;
-        for (int i = index; i <=9; i++) {
-            if (i <= target) {
-                current.add(i); // Choose the candidate
-                combinationSumHelper(i+1, current, result, target -i,k); // Recur with updated target
-                current.remove(current.size() - 1); // Backtrack
-            }
-        }  
+        for(int i=index;i<=9;i++){
+            //to make fast
+            if (sum + i > n) break;
+            list.add(i);
+            backtrack(res,list,i+1,k,n,sum+i);
+            list.remove(list.size()-1);
+        }
     }
 }
