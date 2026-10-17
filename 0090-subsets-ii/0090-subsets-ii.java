@@ -1,24 +1,22 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> res=new ArrayList<>();
-        List<Integer> current=new ArrayList<>();
-        subsets(0,nums,current,res);
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+
+        Arrays.sort(nums);
+        backtrack(res, list, 0, nums);
+
         return res;
     }
-    private void subsets(int index,int[] nums,List<Integer> current,List<List<Integer>> res){
-        if(index==nums.length){
-            res.add(new ArrayList<>(current));
-            return;
+    public void backtrack(List<List<Integer>> res, List<Integer> list,int index, int[] nums) {
+        res.add(new ArrayList<>(list));
+        for (int i = index; i < nums.length; i++) {
+            if (i > index && nums[i] == nums[i - 1]) {
+                continue;
+            }
+        list.add(nums[i]);
+        backtrack(res,list,i+1,nums);
+        list.remove(list.size()-1);
         }
-        //include
-        current.add(nums[index]);
-        //pick
-        subsets(index+1,nums,current,res);
-        //remove
-        current.remove(current.size()-1);
-        //no pick
-        //remove all duplicates
-        while((index+1)<nums.length && nums[index]==nums[index+1]) index++;
-        subsets(index+1,nums,current,res);
     }
 }
