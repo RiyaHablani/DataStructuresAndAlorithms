@@ -2,14 +2,12 @@ class Solution {
     public int singleNumber(int[] nums) {
         int res=0;
         for(int i=0;i<32;i++){
-            int bitCount=0;
+            int count=0;
             for(int num:nums){
-                if((num&(1<<i))!=0){//checking if ith bit was set in num
-                    bitCount++;
-                }
+                count+=(num>>i)&1;
             }
-            if(bitCount%3!=0){//set the ith bit if count is not divisible by 3
-                res=res|(1<<i);
+            if(count%3!=0){
+                res |=(1<<i);
             }
         }
         return res;
