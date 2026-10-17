@@ -1,21 +1,18 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res=new ArrayList<>();
-        List<Integer> current=new ArrayList<>();
-        subsequences(0,nums,current,res);
+        List<Integer> list=new ArrayList<>();
+        backtrack(res,list,nums,0);
         return res;
     }
-    private void subsequences(int index,int nums[],List<Integer> current,List<List<Integer>> res){
-        //base case
+    public void backtrack(List<List<Integer>> res,List<Integer> list,int[] nums,int index){
         if(index==nums.length){
-            res.add(new ArrayList<>(current));
+            res.add(new ArrayList<>(list));
             return;
         }
-        //include
-        current.add(nums[index]);
-        subsequences(index+1,nums,current,res);
-        //remove
-        current.remove(current.size()-1);
-        subsequences(index+1,nums,current,res);
+        list.add(nums[index]);
+        backtrack(res,list,nums,index+1);
+        list.remove(list.size()-1);
+        backtrack(res,list,nums,index+1);
     }
 }
