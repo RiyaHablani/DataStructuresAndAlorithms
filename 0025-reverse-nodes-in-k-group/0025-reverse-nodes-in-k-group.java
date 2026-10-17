@@ -10,37 +10,23 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        // Check whether we have at least k nodes
-        ListNode curr = head;
-        for (int i = 0; i < k; i++) {
-            // If fewer than k nodes are left,
-            // don't reverse them
-            if (curr == null) {
+        ListNode curr=head;
+        for(int i=0;i<k;i++){
+            if(curr==null){
                 return head;
             }
-            curr = curr.next;
+            curr=curr.next;
         }
-        // 'curr' is now the first node of the next group
-        // 'prev' will eventually become the end
-        // of the reversed group
-        ListNode prev = head;
-        // Start reversing from the second node
-        ListNode nextNode = head.next;
-        // Reverse k nodes
-        for (int i = 0; i < k - 1; i++) {
-            // Save the next node before changing the link
-            ListNode temp = nextNode.next;
-            // Reverse the link
-            nextNode.next = head;
-            // Move head to the newly reversed node
-            head = nextNode;
-            // Move to the next node
-            nextNode = temp;
+        ListNode prev=null;
+        curr=head;
+        ListNode next=null;
+        for(int i=0;i<k;i++){
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
         }
-        // 'prev' is now the last node of the reversed group.
-        // Connect it to the result of the next group.
-        prev.next = reverseKGroup(curr, k);
-        // 'head' is now the first node of the reversed group
-        return head;
+        head.next=reverseKGroup(curr,k);
+        return prev;
     }
 }
