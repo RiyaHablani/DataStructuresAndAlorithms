@@ -617,6 +617,7 @@ Youtube leetcode videos code present here
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1020-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -666,6 +667,7 @@ Youtube leetcode videos code present here
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1020-number-of-enclaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -849,6 +851,7 @@ Youtube leetcode videos code present here
 | [1002-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1020-number-of-enclaves) |
 | [1025-minimum-cost-for-tickets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-add-to-array-form-of-integer](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1031-add-to-array-form-of-integer) |
@@ -1414,6 +1417,7 @@ Youtube leetcode videos code present here
 | [0867-transpose-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0867-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -2139,6 +2143,7 @@ Youtube leetcode videos code present here
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
+| [1020-number-of-enclaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Rolling Hash
 |  |
