@@ -666,6 +666,7 @@ Youtube leetcode videos code present here
 | [0945-snakes-and-ladders](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0945-snakes-and-ladders) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0994-rotting-oranges) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1020-number-of-enclaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
@@ -847,6 +848,7 @@ Youtube leetcode videos code present here
 | [0974-reorder-data-in-log-files](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0974-reorder-data-in-log-files) |
 | [0978-valid-mountain-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0978-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -1417,6 +1419,7 @@ Youtube leetcode videos code present here
 | [0867-transpose-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0867-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1036-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
