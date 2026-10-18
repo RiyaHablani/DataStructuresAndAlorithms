@@ -655,6 +655,7 @@ Youtube leetcode videos code present here
 | [0429-n-ary-tree-level-order-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0662-maximum-width-of-binary-tree) |
@@ -807,6 +808,7 @@ Youtube leetcode videos code present here
 | [0518-coin-change-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1413,6 +1415,7 @@ Youtube leetcode videos code present here
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0741-cherry-pickup) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
@@ -1467,6 +1470,7 @@ Youtube leetcode videos code present here
 | [0435-non-overlapping-intervals](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0741-cherry-pickup](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0741-cherry-pickup) |
