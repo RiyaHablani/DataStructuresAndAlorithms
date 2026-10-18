@@ -614,6 +614,7 @@ Youtube leetcode videos code present here
 | [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0785-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0785-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -666,6 +667,7 @@ Youtube leetcode videos code present here
 | [0684-redundant-connection](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0785-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0945-snakes-and-ladders) |
@@ -2147,6 +2149,7 @@ Youtube leetcode videos code present here
 | [0207-course-schedule](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
+| [0785-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
@@ -2159,6 +2162,7 @@ Youtube leetcode videos code present here
 | [0200-number-of-islands](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
+| [0785-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Rolling Hash
@@ -2239,4 +2243,12 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
