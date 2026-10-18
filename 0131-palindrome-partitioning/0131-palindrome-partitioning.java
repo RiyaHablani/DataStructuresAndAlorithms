@@ -1,35 +1,34 @@
 class Solution {
     public List<List<String>> partition(String s) {
-        List<List<String>>resultList = new ArrayList();
-        backTrack(resultList, new ArrayList(), 0, s);
-        return resultList;
+        List<List<String>> res=new ArrayList<>();
+        List<String> list=new ArrayList<>();
+        backtrack(res,list,s,0);
+        return res;
     }
-
-    private void backTrack(List<List<String>> resultList, List<String> currentList, int index, String s ){
+    public void backtrack(List<List<String>> res,List<String> list,String s,int index){
         if(s.length()==index){
-            resultList.add(new ArrayList(currentList));
+            res.add(new ArrayList<>(list));
         }else{
-            for(int i= index+1; i<=s.length(); i++){
-                String currentString = s.substring(index, i);
-                if(isValidPlaindrome(currentString)){
-                    currentList.add(currentString);
-                    backTrack(resultList,currentList,i,s);
-                    currentList.remove(currentList.size()-1);
+            for(int i=index+1;i<=s.length();i++){
+                String currString=s.substring(index,i);
+                if(isPalindrome(currString)){
+                    list.add(currString);
+                    backtrack(res,list,s,i);
+                    list.remove(list.size()-1);
                 }
             }
         }
     }
-
-    private boolean isValidPlaindrome(String s){
-        int start=0;
-        int end=s.length()-1;
-        while(start<end){
-            if(s.charAt(start) != s.charAt(end)) 
-              return false;
-             start++;
-             end--;
+    public boolean isPalindrome(String s){
+        int i=0;
+        int j=s.length()-1;
+        while(i<j){
+            if(s.charAt(i)!=s.charAt(j)){
+                return false;
             }
-          return true;
-        } 
-
+            i++;
+            j--;
+        }
+        return true;
+    }
 }
