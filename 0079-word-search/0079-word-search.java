@@ -12,30 +12,24 @@ class Solution {
         }
         return false;
     }
-    public boolean dfs (char[][] board,int r,int c,String word,int wordIndex){
-        //base case
-        if(wordIndex==word.length()){
+    public boolean dfs(char[][] board,int r,int c,String word,int index){
+        if(index==word.length()){
             return true;
         }
-        //out of bound case
         int rows=board.length;
         int cols=board[0].length;
 
         if(r<0 || c<0 || r>=rows || c>=cols){
             return false;
         }
-        //invalid cases
-        if(board[r][c]==' ' || board[r][c]!=word.charAt(wordIndex)){
+        if(board[r][c]=='*' || board[r][c]!=word.charAt(index)){
             return false;
         }
-        //mark as visited
         char ch=board[r][c];
-        board[r][c]=' ';
-        //dfs call
-        if(dfs(board,r-1,c,word,wordIndex+1) || dfs(board,r,c-1,word,wordIndex+1) || dfs(board,r+1,c,word,wordIndex+1) || dfs(board,r,c+1,word,wordIndex+1)){
+        board[r][c]='*';
+        if(dfs(board,r-1,c,word,index+1) || dfs(board,r,c-1,word,index+1) || dfs(board,r+1,c,word,index+1) || dfs(board,r,c+1,word,index+1)){
             return true;
         }
-        //backtracking
         board[r][c]=ch;
         return false;
     }
