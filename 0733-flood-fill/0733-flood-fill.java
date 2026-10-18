@@ -1,31 +1,28 @@
 class Solution {
-    int rows;
-    int cols;
-
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        rows = image.length;
-        cols = image[0].length;
+        int row=image.length;
+        int col=image[0].length;
+        int originalColor = image[sr][sc];
+        boolean[][] visited=new boolean[row][col];
 
-        boolean[][] visited = new boolean[rows][cols];
-        int currColor = image[sr][sc];
-
-        dfs(sr, sc, currColor, color, visited, image);
+        dfs(image,sr,sc,color,originalColor,visited);
         return image;
     }
+    public void dfs(int[][] image, int r, int c, int color,int originalColor,boolean[][] visited){
 
-    void dfs(int row, int col, int currColor, int newColor, boolean[][] visited, int[][] image) {
-        // out of bound case
-        if (row < 0 || row >= rows || col < 0 || col >= cols ||
-            visited[row][col] || image[row][col] != currColor) {
+        int row=image.length;
+        int col=image[0].length;
+
+        if(r<0 || c<0 || r>=row || c>=col || visited[r][c] || image[r][c]!=originalColor ){
             return;
         }
-        image[row][col] = newColor;
-        visited[row][col] = true;
+        
+        image[r][c] = color;
+        visited[r][c] = true;
 
-        // neighbour
-        int adjList[][] = {{row-1,col},{row,col+1},{row+1,col},{row,col-1}};
-        for (int neighbour[] : adjList) {
-            dfs(neighbour[0], neighbour[1], currColor, newColor, visited, image);
-        }
+        dfs(image,r-1,c,color,originalColor,visited);
+        dfs(image,r+1,c,color,originalColor,visited);
+        dfs(image,r,c+1,color,originalColor,visited);
+        dfs(image,r,c-1,color,originalColor,visited);
     }
 }
