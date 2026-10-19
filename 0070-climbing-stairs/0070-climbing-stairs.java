@@ -3,15 +3,12 @@ class Solution {
         if(n<=2){
             return n;
         }
-        int prev2=1;
-        int prev1=2;
-        int ans=0;
-
-        for(int state=3;state<=n;state++){
-            ans=prev1+prev2;
-            prev2=prev1;
-            prev1=ans;
+        int dp[]=new int[n+1];
+        dp[1]=1;
+        dp[2]=2;
+        for(int i=3;i<=n;i++){
+            dp[i]=dp[i-1]+dp[i-2];
         }
-        return ans;
+        return dp[n];
     }
 }
