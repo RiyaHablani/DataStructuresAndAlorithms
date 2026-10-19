@@ -1,50 +1,53 @@
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        HashSet<String> set=new HashSet<>(wordList);
-        if(!set.contains(endWord)){
+        Set<String> set = new HashSet<>(wordList);
+
+        if (!set.contains(endWord)) {
             return 0;
         }
-        Queue<String> queue=new LinkedList<>();
-        queue.offer(beginWord);
-        if(set.contains(beginWord)){
-            set.remove(beginWord);
-        }
-        int level=0;
-        while(!queue.isEmpty()){
-            int currSize=queue.size();
-            //level wise traversal
-            for(int i=0;i<currSize;i++){
-                String node=queue.poll();
-                if(node.equals(endWord)){
-                    return level+1;
-                }
-                //adj list
-                List<String> neighbours=getNeighbours(node,set);
 
-                for(String word:neighbours){
-                    if(set.contains(word)){
-                        queue.offer(word);
-                        set.remove(word);
+        Queue<String> queue = new LinkedList<>();
+        queue.add(beginWord);
+
+        int length = 1;
+        set.remove(beginWord);
+
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+
+            for (int i = 0; i < size; i++) {
+                String word = queue.poll();
+
+                if (word.equals(endWord)) {
+                    return length;
+                }
+
+                char[] chars = word.toCharArray();
+
+                for (int j = 0; j < chars.length; j++) {
+                    char original = chars[j];
+
+                    for (char ch = 'a'; ch <= 'z'; ch++) {
+                        if (ch == original) {
+                            continue;
+                        }
+
+                        chars[j] = ch;
+                        String nextWord = new String(chars);
+
+                        if (set.contains(nextWord)) {
+                            queue.add(nextWord);
+                            set.remove(nextWord);
+                        }
                     }
+
+                    chars[j] = original;
                 }
             }
-            level++;
+
+            length++;
         }
+
         return 0;
-    }
-    public List<String> getNeighbours(String word,HashSet<String> set){
-        List<String> neighbours=new ArrayList<>();
-        for(int i=0;i<word.length();i++){
-            for(char ch='a';ch<='z';ch++){
-                if(ch==word.charAt(i)){
-                    continue;
-                }
-                String newWord=word.substring(0,i)+ch+word.substring(i+1,word.length());
-                if(set.contains(newWord)){
-                    neighbours.add(newWord);
-                }
-            }
-        }
-        return neighbours;
     }
 }
