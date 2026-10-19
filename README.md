@@ -556,6 +556,7 @@ Youtube leetcode videos code present here
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-path-with-minimum-effort) |
 | [1792-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1792-maximum-average-pass-ratio) |
 | [1917-maximum-average-pass-ratio](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2054-two-best-non-overlapping-events) |
@@ -635,6 +636,7 @@ Youtube leetcode videos code present here
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1558-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -690,6 +692,7 @@ Youtube leetcode videos code present here
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1558-course-schedule-iv) |
 | [1609-even-odd-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1609-even-odd-tree) |
+| [1631-path-with-minimum-effort](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-path-with-minimum-effort) |
 | [1731-even-odd-tree](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1731-even-odd-tree) |
 | [1876-map-of-highest-peak](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1876-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
@@ -905,6 +908,7 @@ Youtube leetcode videos code present here
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1631-path-with-minimum-effort](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-path-with-minimum-effort) |
 | [1656-count-good-triplets](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1656-count-good-triplets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1710-maximum-units-on-a-truck) |
@@ -1231,6 +1235,7 @@ Youtube leetcode videos code present here
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1631-path-with-minimum-effort](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-path-with-minimum-effort) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2054-two-best-non-overlapping-events) |
@@ -1447,6 +1452,7 @@ Youtube leetcode videos code present here
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-path-with-minimum-effort](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -2175,6 +2181,7 @@ Youtube leetcode videos code present here
 | [0685-redundant-connection-ii](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Rolling Hash
 |  |
@@ -2274,4 +2281,8 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
