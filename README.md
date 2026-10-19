@@ -2267,4 +2267,8 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
