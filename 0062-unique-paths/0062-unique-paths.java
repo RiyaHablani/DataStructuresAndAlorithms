@@ -7,8 +7,7 @@ class Solution {
                 if(i==0 && j==0){
                     continue;
                 }
-                int up=0;
-                int left=0;
+                int up=0,left=0;
                 if(i>0){
                     up=dp[i-1][j];
                 }if(j>0){
