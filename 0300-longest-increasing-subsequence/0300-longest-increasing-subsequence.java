@@ -1,27 +1,22 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int[] tails = new int[nums.length];
-        int size = 0;
-
-        for (int num : nums) {
-            int start = 0, end = size;
-
-            // binary search to find place of num in tails[]
-            while (start < end) {
-                int mid = start + (end - start) / 2;
-
-                if (tails[mid] < num) { 
-                    start = mid + 1;
-                } else {
-                    end = mid;
+        int n=nums.length;
+        int dp[]=new int[n];
+        for(int i=0;i<n;i++){
+            dp[i]=1;
+        }
+        for(int i=1;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(nums[i]>nums[j]){
+                    dp[i]=Math.max(dp[i],dp[j]+1);
                 }
             }
-
-            tails[start] = num;
-
-            if (start == size) size++;
+        }
+        int answer = 0;
+        for (int len : dp) {
+            answer = Math.max(answer, len);
         }
 
-        return size;
+        return answer;
     }
 }
