@@ -2299,4 +2299,12 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/1631-path-with-minimum-effort) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
