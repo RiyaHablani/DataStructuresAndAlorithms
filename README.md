@@ -2307,4 +2307,8 @@ Youtube leetcode videos code present here
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0416-partition-equal-subset-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
