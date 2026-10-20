@@ -9,7 +9,6 @@ class Solution {
         for (int num : nums) {
             for (int currSum = targetSum; currSum >= num; currSum--) {
                 dp[currSum] = dp[currSum] || dp[currSum - num];
-                if (dp[targetSum]) return true;
             }
         }
         return dp[targetSum];
