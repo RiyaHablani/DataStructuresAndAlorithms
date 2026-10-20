@@ -405,6 +405,7 @@ Youtube leetcode videos code present here
 | [0455-assign-cookies](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0860-lemonade-change) |
@@ -836,6 +837,7 @@ Youtube leetcode videos code present here
 | [0648-replace-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0648-replace-words) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0692-top-k-frequent-words) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0733-flood-fill) |
@@ -1502,6 +1504,7 @@ Youtube leetcode videos code present here
 | [0542-01-matrix](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/RiyaHablani/DataStructuresAndAlorithms/tree/master/0747-min-cost-climbing-stairs) |
