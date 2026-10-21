@@ -1,72 +1,40 @@
-class TrieNode{
-    TrieNode trieNode[];
+class TrieNode {
+    TrieNode[] trieNode = new TrieNode[26];
     boolean wordEnd;
-    TrieNode(){
-        trieNode=new TrieNode[26];
-        wordEnd=false;
-    }
-    boolean containsChar(char ch){
-        return trieNode[ch-'a']!=null;
-    }
-    void add(char ch){
-        trieNode[ch-'a']=new TrieNode();
-    }
-    TrieNode getChar(char ch) {
-        return trieNode[ch - 'a'];
-    }
 
-    void markWordEnd(){
-        wordEnd=true;
-    }
-    boolean isWord(){
-        return wordEnd;
+    boolean contains(char ch) {
+        return trieNode[ch - 'a'] != null;
     }
 }
+
 class Trie {
-    TrieNode root;
-    public Trie() {
-        root=new TrieNode();
-    }
-    
+    TrieNode root = new TrieNode();
+
     public void insert(String word) {
-        TrieNode temp=root;
-        for(char ch:word.toCharArray()){
-            if(!temp.containsChar(ch)){
-                temp.add(ch);
-            }
-            temp=temp.getChar(ch);
+        TrieNode node = root;
+        for (char ch : word.toCharArray()) {
+            if (!node.contains(ch))
+                node.trieNode[ch - 'a'] = new TrieNode();
+            node = node.trieNode[ch - 'a'];
         }
-        temp.markWordEnd();
+        node.wordEnd = true;
     }
-    
+
     public boolean search(String word) {
-        TrieNode temp=root;
-        for(char ch:word.toCharArray()){
-            if(!temp.containsChar(ch)){
-                return false;
-            }
-            temp=temp.getChar(ch);
-        }
-        return temp.isWord();
+        TrieNode node = find(word);
+        return node != null && node.wordEnd;
     }
-    
+
     public boolean startsWith(String prefix) {
-    TrieNode temp = root;
-
-    for (char ch : prefix.toCharArray()) {
-        if (!temp.containsChar(ch)) {
-            return false;
-        }
-        temp = temp.getChar(ch);
+        return find(prefix) != null;
     }
 
-    return true;
+    private TrieNode find(String s) {
+        TrieNode node = root;
+        for (char ch : s.toCharArray()) {
+            if (!node.contains(ch)) return null;
+            node = node.trieNode[ch - 'a'];
+        }
+        return node;
     }
 }
-/**
- * Your Trie object will be instantiated and called as such:
- * Trie obj = new Trie();
- * obj.insert(word);
- * boolean param_2 = obj.search(word);
- * boolean param_3 = obj.startsWith(prefix);
- */
