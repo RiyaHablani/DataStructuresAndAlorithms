@@ -1,79 +1,35 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        if(matrix.length==0){
-            return 0;
-        }
-        int heights[]=new int[matrix[0].length];
-        int largest=0;
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[i].length;j++){
-                int val=matrix[i][j]-'0';
-                if(val==0){
-                    heights[j]=0;
-                }else{
-                    heights[j]+=(val);
-                }
-            }
-            int maxArea=largestRectangleArea(heights);
-            if(largest<maxArea){
-                largest=maxArea;
+       if(matrix==null || matrix.length==0 || matrix[0].length==0) return 0;
+       int rows=matrix.length;
+       int cols=matrix[0].length;
+       int[] heights=new int[cols];
+       int maxArea=0;            
+       for(int r=0;r<rows;r++){
+        for(int c=0;c<cols;c++){
+            if(matrix[r][c]=='1'){
+                heights[c]+=1;
+            }else{
+                heights[c]=0;
             }
         }
-        return largest;
+        maxArea=Math.max(maxArea,largestRectangleArea(heights));
+       }
+       return maxArea;
     }
-    public int largestRectangleArea(int[] heights) {
-        int ns[] = findNextSmaller(heights);
-        int ps[] = findPrevSmaller(heights);
-        
-        int max = Integer.MIN_VALUE;
-        for(int i=0;i<heights.length;i++){
-            int h = heights[i];
-            int w = ns[i] - ps[i] - 1;
-            max = Math.max(max, (h*w));
+    private int largestRectangleArea(int[] heights){
+        Deque<Integer> stack=new ArrayDeque<>();
+        int max=0;
+        int n=heights.length;
+        for(int i=0;i<=n;i++){
+            int currHeight=(i==n)?0:heights[i];
+            while(!stack.isEmpty() && currHeight <heights[stack.peek()]){
+                int h=heights[stack.pop()];
+                int width=stack.isEmpty()?i:i-stack.peek()-1;
+                max=Math.max(max,h*width);
+            }
+            stack.push(i);
         }
         return max;
     }
-	public static int[] findPrevSmaller(int arr[]) 
-	{ 
-	    // Your code goes here
-			int n = arr.length;
-	    Stack<Integer> stack = new Stack<>();
-	    int res[] = new int[n];
-	    for(int i=0;i<n;i++){
-	        while(!stack.isEmpty() && arr[stack.peek()]>= arr[i]) {
-	            stack.pop();
-	        }
-	        
-	        if(stack.isEmpty()) {
-	            res[i] = -1;
-	        } else {
-	            res[i] = stack.peek();
-	        }
-	        
-	        stack.push(i);
-	    }
-	    return res;
-	} 
-
-    public static int[] findNextSmaller(int arr[]) 
-	{ 
-	    // Your code goes here
-			int n = arr.length;
-	    Stack<Integer> stack = new Stack<>();
-	    int res[] = new int[n];
-	    for(int i=n-1;i>=0;i--){
-	        while(!stack.isEmpty() && arr[stack.peek()]>= arr[i]) {
-	            stack.pop();
-	        }
-	        
-	        if(stack.isEmpty()) {
-	            res[i] = n;
-	        } else {
-	            res[i] = stack.peek();
-	        }
-	        
-	        stack.push(i);
-	    }
-	    return res;
-	}
 }
